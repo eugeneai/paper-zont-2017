@@ -4,8 +4,8 @@ SRC=$(shell find src/ -name '*.md')
 
 all: docx
 
-docx: paper.docx
+docx: paper-body.docx
 
 
-paper.docx: $(SRC)
-	pandoc -o $@ -t docx --toc $<
+paper-body.docx: $(SRC)
+	pandoc -o $@ -t docx $<
