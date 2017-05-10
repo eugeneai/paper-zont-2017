@@ -9,3 +9,4 @@ docx: paper-body.docx
 
 paper-body.docx: $(SRC)
 	pandoc -o $@ -t docx $<
+
