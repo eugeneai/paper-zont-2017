@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r"
-   sodipodi:docname="architecture.svg">
+   sodipodi:docname="architecture.svg"
+   inkscape:export-filename="/home/eugeneai/Development/text/Papers/paper-zont-2017/architecture.svg.png"
+   inkscape:export-xdpi="120.09048"
+   inkscape:export-ydpi="120.09048">
   <defs
      id="defs2">
     <marker
@@ -176,9 +179,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.92930617"
-     inkscape:cx="422.27194"
-     inkscape:cy="357.52702"
+     inkscape:zoom="2.5084087"
+     inkscape:cx="367.73983"
+     inkscape:cy="116.05964"
      inkscape:document-units="mm"
      inkscape:current-layer="g10109"
      showgrid="false"
