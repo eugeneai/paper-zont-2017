@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Более того, на предприятиях, где функционируют такие среды автоматизации, практически всегда существует большой класс документов, не интегрированных в основной документооборот (например, докладные записки, заявления), документов с трудноформализуемой информацией (например, должностные инструкции), а также документов, получаемых организацией извне и не содержащих логическую разметку (например, стандарты отрасли).</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T142915Z" creationid="eugeneai" creationdate="20170712T142915Z">
+        <seg>Moreover, in companies with a deployed document flow automation, there is almost always a wide class of documents that are not integrated in the main document flow (e.g., memos, statements), documents with difficult-to-formalize information (e.g., job descriptions) and the documents received by the organizations from the outside having no contain logical markup (e.g., industry standards).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>В некоторой степени это позволяет время, затрачиваемое на проектирование структуры базы данных для хранилищ частичноструктурированных документов, перенаправить на процесс решения предметной задачи: пользователь (разработчик) обрамляет текстовые данные семантической разметкой.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T125406Z" creationid="eugeneai" creationdate="20170712T125406Z">
@@ -102,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Данная работа продолжает исследования, обозначенные в [2] в части реализации клиентских сервисов, функционирующих на вычислительной платформе веб-браузера.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T143023Z" creationid="eugeneai" creationdate="20170712T143023Z">
+        <seg>This work continues the research outlined in [2] in implementing client services operating on the platform of the web browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Дескриптивные возможности технологий семантического веба, средства публикации документов HTML5, а также технологии LOD создают инфраструктурный базис средств создания (верстки) и публикации документов.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T115559Z" creationid="eugeneai" creationdate="20170712T115559Z">
@@ -114,6 +130,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T125951Z" creationid="eugeneai" creationdate="20170712T125951Z">
         <seg>To achieve the goal a set of server functions and client (web-browser) JavaScript routines has been developed that allows the user to create documents with the web browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Задача актуальна, прежде всего, в среде малого бизнеса, где нет устоявшихся информационных потоков и связей между документами, что, в основном, обусловлено динамичностью самого бизнеса.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T141644Z" creationid="eugeneai" creationdate="20170712T141644Z">
+        <seg>The task is relevant, especially in a small business environments with no well-established information flows and relationships between documents. This is mainly due to the dynamism [and diversity] of the small business.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,10 +158,26 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Использование средств крупномасштабной автоматизации документооборота в такой среде связано с большими материальными затратами на приобретение и/или постоянное усовершенствование программного продукта.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T142403Z" creationid="eugeneai" creationdate="20170712T142403Z">
+        <seg>Use of large-scale workflow automation software in the environments of such kind requires large financial expenses for the purchase and/or continuous improvement of the software product.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Использование технологий Linked Open Data при подготовке и публикации текстовых документов</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111442Z" creationid="eugeneai" creationdate="20170712T111442Z">
         <seg>Linked Open Data technologies for authoring and publishing text documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Использование форматов данных LOD, средств обработки HTML веб-браузера и разработанных технологий позволяет решать широкий класс задач формирования документации, начиная от формирования содержательной части текстов документов, заканчивая представлением стилевых характеристик текстов, а также интегрирования логической разметки в глобальные сервисы доступа к данным.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T140518Z" creationid="eugeneai" creationdate="20170712T140518Z">
+        <seg>The use of LOD data formats, HTML processing tools of web browser and developed technologies allows one to solve a wide class of problems of formation of documentation, ranging from the formation of a meaningful part of the texts through the presentation of stylistic characteristics of the texts and the integration of logical markup into a global data access services.</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +226,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T130311Z" creationid="eugeneai" creationdate="20170712T130311Z">
         <seg>The functions support uploading of text fragments from other documents and their generation with server and client scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Развитие средств представления документов на основе LOD направлено на формирование прототипа глобальной среды, поддерживающей автоматизацию передачи информации между документами нескольких предприятий, и создание, в идеале, распределенного документооборота по принципам социальной сети.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T141107Z" creationid="eugeneai" creationdate="20170712T141107Z">
+        <seg>The development of the tools for document representation on the basis of LOD aimed at the formation of the prototype of a global environment that supports automation of data transfer between documents of several companies, and create, ideally, a distributed document processing with the principles of social networks.</seg>
       </tuv>
     </tu>
     <tu>
@@ -250,6 +298,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T114427Z" creationid="eugeneai" creationdate="20170712T114427Z">
         <seg>The technologies are based on the active use RDFa markup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Технологии верстки документов на основе LOD</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T143100Z" creationid="eugeneai" creationdate="20170712T143100Z">
+        <seg>Technology of document authoring based on the LOD</seg>
       </tuv>
     </tu>
     <tu>
