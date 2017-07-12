@@ -1,14 +1,14 @@
-7/12/17 7:27 PM
+7/12/17 9:32 PM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
 Total:           	     324	 4264	                      31886	                        35613	     1	
-Remaining:       	     301	 4180	                      31363	                        35036	     1	
+Remaining:       	     282	 3793	                      28300	                        31606	     1	
 Unique:          	     300	 4242	                      31733	                        35451	     1	
-Unique Remaining:	     282	 4170	                      31284	                        34955	     1	
+Unique Remaining:	     263	 3783	                      28221	                        31525	     1	
 
 
 Individual File Statistics:
 
 File Name 	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
-paper.docx	           324	               301	            300	                      282	       4264	           4180	        4242	                  4170	                            31886	                                31363	                             31733	                                       31284	                              35613	                                  35036	                               35451	                                         34955	
+paper.docx	           324	               282	            300	                      263	       4264	           3793	        4242	                  3783	                            31886	                                28300	                             31733	                                       28221	                              35613	                                  31606	                               35451	                                         31525	

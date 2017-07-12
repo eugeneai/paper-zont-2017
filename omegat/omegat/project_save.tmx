@@ -70,10 +70,50 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>В некоторой степени это позволяет время, затрачиваемое на проектирование структуры базы данных для хранилищ частичноструктурированных документов, перенаправить на процесс решения предметной задачи: пользователь (разработчик) обрамляет текстовые данные семантической разметкой.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T125406Z" creationid="eugeneai" creationdate="20170712T125406Z">
+        <seg>In some extent, this allows redirecting time spent on designing the database structure for a storage of partially formalized documents to the process of solving a substantive problem: the user (developer) markups the text data with semantic meaning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>В.М.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111559Z" creationid="eugeneai" creationdate="20170712T111559Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Важным преимуществом использования LOD при создании информационных сред является ослабление требований к хранилищам публикуемой информации: сам документ является хранилищем данных в формализованном виде.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T124744Z" creationid="eugeneai" creationdate="20170712T124744Z">
+        <seg>An important advantage of LOD usage in creation of information environments is a weakening of the requirements to published information warehouses: the document itself is the formalized data warehouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Введение</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T114641Z" creationid="eugeneai" creationdate="20170712T114641Z">
+        <seg>Introduction</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Дескриптивные возможности технологий семантического веба, средства публикации документов HTML5, а также технологии LOD создают инфраструктурный базис средств создания (верстки) и публикации документов.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T115559Z" creationid="eugeneai" creationdate="20170712T115559Z">
+        <seg>The descriptive capabilities of semantic web technologies, HTML5 document publishing tools and LOD technologies form a infrastructural basis of authoring and publishing documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Для достижения цели реализован набор серверных функций и функций клиентского (веб-браузерного) JavaScript, позволяющий создавать документы на стороне веб-браузера.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T125951Z" creationid="eugeneai" creationdate="20170712T125951Z">
+        <seg>To achieve the goal a set of server functions and client (web-browser) JavaScript routines has been developed that allows the user to create documents with the web browser.</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Ключевые слова: открытые связанные данные, автоматизация верстки документа, семантическая разметка документа</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T114637Z" creationid="eugeneai" creationdate="20170712T114637Z">
+        <seg>Keywords: Linked Open Data, automated composing a document, semantic markup of document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Лермонтова, д.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111611Z" creationid="eugeneai" creationdate="20170712T111611Z">
@@ -118,10 +166,114 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>На основе созданных средств редактирования разработаны варианты цифровых архивов документов, предназначенных для решения задач формирования документации по учебным курсам, оформления результатов исследований высокопроизводительно секвенирования ДНК/РНК.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T133218Z" creationid="eugeneai" creationdate="20170712T133218Z">
+        <seg>The created editing tools are the basis of developed digital archives of documents intended for solving problems of creating documentation of university courses, representing research results of DNA/RNA sequencing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При этом документ формируется из отдельных частей (текстов и изображений), загружаемых с других серверов при помощи ссылок на соответствующие ресурсы.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T115710Z" creationid="eugeneai" creationdate="20170712T115710Z">
+        <seg>The document is constructed out of individual parts (text and images) that are loaded from other servers with links to relevant resources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При этом обеспечены загрузка фрагментов текста из других документов и их порождение серверными и клиентскими скриптами.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T130311Z" creationid="eugeneai" creationdate="20170712T130311Z">
+        <seg>The functions support uploading of text fragments from other documents and their generation with server and client scripts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Разработан программный инструментарий, позволяющий сверстывать HTML5-документы из различных источников: веб-страниц и результатов обработки текста на стороне клиента (веб-браузера), а также представлять документ в заданном виде, например, как шаблон или форму.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T114352Z" creationid="eugeneai" creationdate="20170712T114352Z">
+        <seg>Software tools to compose HTML5 documents from various sources and present the document in a specified layout, such as a template or form, is being developed. The sources are web pages and the results of text processing on the server or client side (web browser) processing results.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Рассматривается проблематика автоматизации создания текстовых документов при активном использовании декларативных средств и технологий открытых связных данных.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T113151Z" creationid="eugeneai" creationdate="20170712T113151Z">
+        <seg>The problems of automating the creation of text documents with the active use of declarative tools and technologies of Linked Open Data is discussed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Рассмотрено несколько примеров приложения разработанных программ.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T114534Z" creationid="eugeneai" creationdate="20170712T114534Z">
+        <seg>Several examples of the application of the developed software are considered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Результирующий документ помещается в хранилище данных, распечатывается или загружается на рабочую станцию пользователя в виде HTML-файла.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T130413Z" creationid="eugeneai" creationdate="20170712T130413Z">
+        <seg>The resulting document is placed in the data warehouse, printed or downloaded to the user workstation as an HTML file.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Ресурсы представляю собой как статическое содержимое, так и результаты запуска алгоритмов конвертации данных, порождающими текстовое содержимое.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T123534Z" creationid="eugeneai" creationdate="20170712T123534Z">
+        <seg>Resources represent both the static content and the results of an algorithm execution generating text content from source data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Скрипты  JavaScript реализуют различные представления документа (View), например, в виде формы ввода; производят преобразования частей текста, например, склонять существительные и подставлять местоимения, генерировать содержание и т.п.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T131110Z" creationid="eugeneai" creationdate="20170712T131110Z">
+        <seg>JavaScript scrips implement various document views, e.g., as input forms, conversion of parts of text, e.g., to lean nouns and substitute pronouns, generate content, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Средства LOD обеспечивают информации, представленной в документе, логическую разметку, информативный базис для различных вариантов визуального представления и интерпретации, установку логических связей с другими документами, экспорт информации в другие документы, процедурную обработку и т.д.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T124031Z" creationid="eugeneai" creationdate="20170712T124031Z">
+        <seg>The LOD provide a logical markup for the information presented in a document, informative basis for the different variants of visual representation and interpretation, logical connections with other documents, export information into other documents, procedural processing, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Технологии базируются на активном использовании RDFa-разметки.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T114427Z" creationid="eugeneai" creationdate="20170712T114427Z">
+        <seg>The technologies are based on the active use RDFa markup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Технология Linked Open Data (LOD, открытые связанные данные) [1] предложена W3C-консорциумом для представления семантической информации в публикуемых данных таким образом, чтобы обеспечить не только возможность ее обработки при помощи программных агентов (Семантичекий Веб), но и связать всю имеющуюся информацию в единый семантический граф при помощи отношений и универсальных глобальных идентификаторов (URI) ресурсов.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T115124Z" creationid="eugeneai" creationdate="20170712T115124Z">
+        <seg>Technology Linked Open Data (LOD) [1] has been suggested by W3C consortium to represent the semantic information in the data published in a way that provides not only the possibility of its processing with software agents (Semantic Web), but also to link all available information into a single semantic graph using relations and global universal identifiers (URIs) of theory resources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Улан-Баторская, д.3, г.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T112025Z" creationid="eugeneai" creationdate="20170712T112025Z">
         <seg>Ulan-Bator str. 3,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Целью исследования является разработка подхода к разработке программного обеспечения, реализующего функции подготовки и верстки документов, размеченных согласно принципам LOD.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T125713Z" creationid="eugeneai" creationdate="20170712T125713Z">
+        <seg>The aim of the study is to design an approach to the development of software performing the functions of the authoring and typesetting of documents marked up according to LOD principles.</seg>
       </tuv>
     </tu>
     <tu>
