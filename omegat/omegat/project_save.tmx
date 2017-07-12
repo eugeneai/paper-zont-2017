@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="RU"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="RU">
+        <seg>134, г.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111622Z" creationid="eugeneai" creationdate="20170712T111622Z">
+        <seg>134, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>1Институт динамики систем и теории управления СО РАН им.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111556Z" creationid="eugeneai" creationdate="20170712T111556Z">
+        <seg>1 V.M. Matrosov's institute of system dynamics and control theory SB RAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>2Иркутский национальный исследовательский технический, ул.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111835Z" creationid="eugeneai" creationdate="20170712T111835Z">
+        <seg>2National research Irkutsk state technical university, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>3Иркутский научный центр СО РАН, ул.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111937Z" creationid="eugeneai" creationdate="20170712T111937Z">
+        <seg>3Иркутский scientific center SB RAS, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>4Лимнологический институт СО РАН, ул.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T112012Z" creationid="eugeneai" creationdate="20170712T112012Z">
+        <seg>4Limnological Institute SB RAS, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>83,</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111846Z" creationid="eugeneai" creationdate="20170712T111846Z">
+        <seg>83,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>eugeneai@icc.ru, shigarov@icc.ru</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T112031Z" creationid="eugeneai" creationdate="20170712T112031Z">
+        <seg>eugeneai@icc.ru, shigarov@icc.ru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Аннотация.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T112039Z" creationid="eugeneai" creationdate="20170712T112039Z">
+        <seg>Abstract.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В.М.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111559Z" creationid="eugeneai" creationdate="20170712T111559Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Иркутск, 664033, Россия</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111626Z" creationid="eugeneai" creationdate="20170712T111626Z">
+        <seg>Irkutsk, 664033, Russia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Иркутск, 664074, Россия</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111929Z" creationid="eugeneai" creationdate="20170712T111929Z">
+        <seg>Irkutsk, 664033, Russia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Использование технологий Linked Open Data при подготовке и публикации текстовых документов</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111442Z" creationid="eugeneai" creationdate="20170712T111442Z">
+        <seg>Linked Open Data technologies for authoring and publishing text documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Лермонтова, д.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111611Z" creationid="eugeneai" creationdate="20170712T111611Z">
+        <seg>Lermontov str.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Матросова,</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111601Z" creationid="eugeneai" creationdate="20170712T111601Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Улан-Баторская, д.3, г.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T112025Z" creationid="eugeneai" creationdate="20170712T112025Z">
+        <seg>Ulan-Bator str. 3,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Черкашин Е.А.1,2,3, Шигаров А.О.1,3, Орлова И.В.2, Михайлов И.С.4</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111508Z" creationid="eugeneai" creationdate="20170712T111508Z">
+        <seg>Cherkashin E. A. 1,2,3, Shigarov A. O. 1,3, 2 Orlova I. V., Mikhailov I. S. 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>г.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111850Z" creationid="eugeneai" creationdate="20170712T111850Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>ул.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111603Z" creationid="eugeneai" creationdate="20170712T111603Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
