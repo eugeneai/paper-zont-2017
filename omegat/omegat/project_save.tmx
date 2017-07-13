@@ -54,6 +54,62 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>DBPedia resource (dbr) – пространство имен объектов (ресурсов) Wikipedia.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T153402Z" creationid="eugeneai" creationdate="20170713T153402Z">
+        <seg>DBPedia resource (dbr) is the namespace of the objects (resources) of Wikipedia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Dokieli позволяют размечать текст тегами RDFa, копировать документ в собственное хранилище и производить аннотацию элементов текста комментариями читателей и соавторов.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T145142Z" creationid="eugeneai" creationdate="20170713T145142Z">
+        <seg>Dokieli allow to mark up text with tags RDFa, to copy a document in its own repository and make an annotation of the text with readers' and authors' comments.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Dublin Core (dc) используется для обозначения элементов редактируемой аннотации, например, заголовков разделов, заголовка документа, типов документов, различных описаний, если они содержатся в документе.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T153203Z" creationid="eugeneai" creationdate="20170713T153203Z">
+        <seg>Dublin Core (dc) is used to describe the elements of authored annotations, for example, section headings, document title, document types, various descriptions contained in the document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Friend-of-a-friend (foaf) позволяет представлять информацию об агентах: физических и юридических лицах, а также программных агентов.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T151308Z" creationid="eugeneai" creationdate="20170713T151224Z">
+        <seg>Friend-of-a-friend (foaf) describes information about agents: physical and legal entities, together with software agents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Open Annotation (oa).</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T145228Z" creationid="eugeneai" creationdate="20170713T145228Z">
+        <seg>Open Annotation (oa).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Provenence (prov) обеспечивает словарь терминов и отношений, характеризующих происхождение информации.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T152242Z" creationid="eugeneai" creationdate="20170713T152242Z">
+        <seg>Provenence (prov) provides a vocabulary of terms and relations describing the origin of the information.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Schema.org (schema) представляет объекты, распознаваемые поисковыми агентами Google, Yandex, Yahoo и др.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T153606Z" creationid="eugeneai" creationdate="20170713T153606Z">
+        <seg>Schema.org (schema) represents the objects that are recognized by the site scanning agents of Google, Yandex, Yahoo etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>eugeneai@icc.ru, shigarov@icc.ru</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T112031Z" creationid="eugeneai" creationdate="20170712T112031Z">
@@ -70,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Архитектура программной системы представлена на Рис. 1 (все взаимодействия, изображенные на рисунке, двунаправленные).</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T155023Z" creationid="eugeneai" creationdate="20170713T155023Z">
+        <seg>The architecture of the system is presented in Fig. 1 (all relations shown in the figure are bi-directional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Более того, на предприятиях, где функционируют такие среды автоматизации, практически всегда существует большой класс документов, не интегрированных в основной документооборот (например, докладные записки, заявления), документов с трудноформализуемой информацией (например, должностные инструкции), а также документов, получаемых организацией извне и не содержащих логическую разметку (например, стандарты отрасли).</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T142915Z" creationid="eugeneai" creationdate="20170712T142915Z">
@@ -78,10 +142,50 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>В дополнение к семантической разметке в текст документа встраиваются командные структуры, позволяющие активировать алгоритмы преобразования содержимого, например, инструкции включения частей одних документов в другие, грамматические преобразования фраз.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T144207Z" creationid="eugeneai" creationdate="20170713T005052Z">
+        <seg>In addition to the semantic markup, command structures are embedded in the text of a document. Such structures are used for algorithm activation of content conversion, for example, some structures activate the inclusion of parts of other document in the current one, other instruction organize grammatical transformations of sentences.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В качестве основы семантической разметки документа использованы результаты открытого проекта Dokieli [3].</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T144801Z" creationid="eugeneai" creationdate="20170713T144801Z">
+        <seg>As the basis for the semantic markup of the documents, the results of the open project Dokieli [3] is used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>В некоторой степени это позволяет время, затрачиваемое на проектирование структуры базы данных для хранилищ частичноструктурированных документов, перенаправить на процесс решения предметной задачи: пользователь (разработчик) обрамляет текстовые данные семантической разметкой.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T125406Z" creationid="eugeneai" creationdate="20170712T125406Z">
         <seg>In some extent, this allows redirecting time spent on designing the database structure for a storage of partially formalized documents to the process of solving a substantive problem: the user (developer) markups the text data with semantic meaning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В отличие от oa эта онтология представляет, в основном, ментаинформацию о творческом произведении.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T153338Z" creationid="eugeneai" creationdate="20170713T153338Z">
+        <seg>In contrast to oa this ontology describes the documents mainly at metainformation level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В разметке документов используются следующие онтологии.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T145223Z" creationid="eugeneai" creationdate="20170713T145223Z">
+        <seg>In the markup of a document, the following ontologies are used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В этой онтологии есть полезные отношения типа “часть-целое” (schema:hasPart), “результат творческой деятельности” (schema:CreativeWork), при помощи них описываются разделы документа и строится их иерархическая структура.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T153925Z" creationid="eugeneai" creationdate="20170713T153925Z">
+        <seg>This ontology contains useful relationships like “part-whole” (schema:hasPart), “result of a creative activity” (schema:CreativeWork). The relations are used to describe the sectioning of the document, i.e., its hierarchical structure.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Данная онтология широко применяется для представления связей между лицами (агентами) в социальной сети.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T151253Z" creationid="eugeneai" creationdate="20170713T151253Z">
+        <seg>This ontology is widely used to represent relations between entities (agents) in a social network.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Данная работа продолжает исследования, обозначенные в [2] в части реализации клиентских сервисов, функционирующих на вычислительной платформе веб-браузера.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T143023Z" creationid="eugeneai" creationdate="20170712T143023Z">
@@ -126,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Для внесения изменений в содержимое страницы использованы встроенные средства редактирования веб-страниц браузеров (атрибут contentEditable), управляемые специальными библиотеками (например, Medium Editor, https://yabwe.github.io/medium-editor/), позволяющими расширять базовые функции встроенного редактора функциями преобразования структуры документа и его LOD-разметки.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T001419Z" creationid="eugeneai" creationdate="20170713T001419Z">
+        <seg>To make changes in the content of the page, built-in browser editing tools of web pages (contentEditable attribute) are used. The tools are managed by the special libraries (Medium Editor, https://yabwe.github.io/medium-editor/), which extend the basic functions of the built-in editor with document structure conversion and LOD markup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Для достижения цели реализован набор серверных функций и функций клиентского (веб-браузерного) JavaScript, позволяющий создавать документы на стороне веб-браузера.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T125951Z" creationid="eugeneai" creationdate="20170712T125951Z">
@@ -134,10 +254,26 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Документ – это веб-страница, которая создается из отдельных частей при помощи алгоритмов, реализованных в системе программирования клиентского JavaScript.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T000456Z" creationid="eugeneai" creationdate="20170713T000456Z">
+        <seg>The document is a web page that is composed out of different parts by means of the JavaScript routines functioning within the web browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Задача актуальна, прежде всего, в среде малого бизнеса, где нет устоявшихся информационных потоков и связей между документами, что, в основном, обусловлено динамичностью самого бизнеса.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T141644Z" creationid="eugeneai" creationdate="20170712T141644Z">
         <seg>The task is relevant, especially in a small business environments with no well-established information flows and relationships between documents. This is mainly due to the dynamism [and diversity] of the small business.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Закладка браузера является примером такого содержимого.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T150128Z" creationid="eugeneai" creationdate="20170713T150128Z">
+        <seg>Browser bookmarks are examples of such content.</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,6 +326,22 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Командные структуры распознаются проще, чем структуры семантической разметки.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T144559Z" creationid="eugeneai" creationdate="20170713T144559Z">
+        <seg>The command structures are recognized more easily than the structures of semantic markup.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Кроме перечисленных онтологий используются стандартные онтологии (RDF, RDFs, RDFa, XSD) и онтологии из проекта NEPOMUK (https://userbase.kde.org/Nepomuk), предназначенные для описания объектов, хранимых в полнотекстовых индексных цифровых архивах.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T154118Z" creationid="eugeneai" creationdate="20170713T154118Z">
+        <seg>In addition to the above-mentioned ontologies, the standard ontologies (RDF, RDFs, RDFa, XSD) and ontologies from the NEPOMUK project (https://userbase.kde.org/Nepomuk) describing objects stored in the index of full-text digital archives are used as well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Лермонтова, д.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111611Z" creationid="eugeneai" creationdate="20170712T111611Z">
@@ -214,6 +366,62 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>На трудоемком этапе поиска онтологий для представления документов по предметным областям оказался весьма полезным ресурс Linked Open Vocabularies (http://lov.okfn.org/dataset/lov/), а также помощь сообщества исследователей, поддерживающих этот ресурс.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T154930Z" creationid="eugeneai" creationdate="20170713T154930Z">
+        <seg>In our research, there was a labor-intensive stage devoted to the search ontologies to represent documents by subject areas. The resource Linked Open Vocabularies (http://lov.okfn.org/dataset/lov/) happened to be very useful reference book as well as support of the community of researchers, which develop this resource.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Например, при помощи данной онтологии удобно ссылаться на ресурсы (документы), из которых была получена информация, использованная в документе.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T152942Z" creationid="eugeneai" creationdate="20170713T152942Z">
+        <seg>This ontology is a convenient way to refer the document's source parts originated from other documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Обработка командных структур направлена на преимущественно алгоритмические преобразования текста.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T144713Z" creationid="eugeneai" creationdate="20170713T144713Z">
+        <seg>The command structures interpretation mainly aimed at algorithmic text processing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Они позволяют более детально описывать метаинформацию о творческом произведении типа файл, изображение, документ, раздел документа, а также задавать тип документа, текстовое содержимое, идентификацию произведений и т.д.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T154426Z" creationid="eugeneai" creationdate="20170713T154426Z">
+        <seg>They allow one to describe meta-information about the creative work of various kind in details, e.g., file, image, document, document section; and specify the type of document, text content, identification of works, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Онтология prov – основа описания информационных потоков в документах и их взаимосвязи.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T153048Z" creationid="eugeneai" creationdate="20170713T153048Z">
+        <seg>The prov ontology is a basis of informational flows descriptions in documents and their mutual relationships.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Первое отношение ссылается на аннотируемое содержимое через URI, а второе, которое в общем случае является множественным отношением, - на ресурс-аннотацию, например, на текст-описание ресурса или комментарий, связанный с ресурсом.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T150626Z" creationid="eugeneai" creationdate="20170713T150626Z">
+        <seg>The first relation refers to the annotated content with a corresponding resource URIs, and the second one, which can be multiple, refers to an annotation resource, for example, a text description of the annotated resource or an associated comment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>При помощи онтологии dbr удобно ссылаться на конкретные экземпляры объектов и конкретные классы, например, паспорт физического лица (dbr:Passport), конкретный город и т.п.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T153459Z" creationid="eugeneai" creationdate="20170713T153459Z">
+        <seg>Ontology dbr is a convenient way to refer to specific instances of objects and concrete classes, for example, the passport of a person (dbr:Passport), a city, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>При этом документ формируется из отдельных частей (текстов и изображений), загружаемых с других серверов при помощи ссылок на соответствующие ресурсы.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T115710Z" creationid="eugeneai" creationdate="20170712T115710Z">
@@ -230,10 +438,26 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Проект ориентирован на создание средств редактирования текстов HTML5, представляющих научные публикации, несколькими соавторами.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T144918Z" creationid="eugeneai" creationdate="20170713T144918Z">
+        <seg>The project focuses on implementation of HTML5 text-editing tools for authoring a scientific publication by several co-authors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Развитие средств представления документов на основе LOD направлено на формирование прототипа глобальной среды, поддерживающей автоматизацию передачи информации между документами нескольких предприятий, и создание, в идеале, распределенного документооборота по принципам социальной сети.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T141107Z" creationid="eugeneai" creationdate="20170712T141107Z">
         <seg>The development of the tools for document representation on the basis of LOD aimed at the formation of the prototype of a global environment that supports automation of data transfer between documents of several companies, and create, ideally, a distributed document processing with the principles of social networks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Разрабатываемые программные средства верстки текста документов базируются на технологиях, реализующих стандарт HTML5, существующих в современных веб-браузерах.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T000220Z" creationid="eugeneai" creationdate="20170713T000220Z">
+        <seg>The developed software for typesetting of text documents are based on technologies, which implement the HTML5 standard available in modern web browsers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Редактируемый документ представляет собой аннотацию порождаемого документа, т.е. сначала он сам себя аннотирует, а после завершения подготовки окончательной версии документа – на его неизменяемую копию, например, на свой PDF.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T151109Z" creationid="eugeneai" creationdate="20170713T151109Z">
+        <seg>The edited document is an annotation to the target document, i.e., at the beginning the documents annotates itself, and after the completion of the final version of the document, the annotation annotates the generated immutable copy, e.g., the PDF file of the document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Результирующий документ помещается в хранилище данных, распечатывается или загружается на рабочую станцию пользователя в виде HTML-файла.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T130413Z" creationid="eugeneai" creationdate="20170712T130413Z">
@@ -270,10 +502,26 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Ресурс oa (закладка) находится в двух основных отношениях с другими ресурсами: oa:hasTarget, oa:hasBody.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T150226Z" creationid="eugeneai" creationdate="20170713T150226Z">
+        <seg>An oa resource (an bookmark) is in two major relations to other resources: oa:hasTarget, oa:hasBody.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Ресурсы представляю собой как статическое содержимое, так и результаты запуска алгоритмов конвертации данных, порождающими текстовое содержимое.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T123534Z" creationid="eugeneai" creationdate="20170712T123534Z">
         <seg>Resources represent both the static content and the results of an algorithm execution generating text content from source data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Семантическая разметка представляет логическую структуру документа, предметные отношения между сущностями, представленными в документе, например, выделяются стороны, заключающие некоторое соглашение, предмет соглашения; формальные данные; отношения “часть-целое”, при помощи которых осуществляется секционирование текста документа.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T001955Z" creationid="eugeneai" creationdate="20170713T001955Z">
+        <seg>The semantic markup is the logical structure of the document, the domain relations between the entities presented in the document, for example, the distinct [parties] are described in an agreement, subject of agreement; formal data; the “part-whole” relationships sectioning the text document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,6 +538,22 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T124031Z" creationid="eugeneai" creationdate="20170712T124031Z">
         <seg>The LOD provide a logical markup for the information presented in a document, informative basis for the different variants of visual representation and interpretation, logical connections with other documents, export information into other documents, procedural processing, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Стандарт этой отологии принят в 2017 году, ее основная задача представлять содержимое (аннотацию), описывающее другое содержимое.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T150054Z" creationid="eugeneai" creationdate="20170713T150032Z">
+        <seg>The ontology accepted in 2017, its main purpose is to describe the content (annotation) describing other content.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Текст документа размечен при помощи стандарта RDFa.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T001510Z" creationid="eugeneai" creationdate="20170713T001510Z">
+        <seg>The text of the document is being marked up with RDFa attributes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -338,6 +602,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111508Z" creationid="eugeneai" creationdate="20170712T111508Z">
         <seg>Cherkashin E. A. 1,2,3, Shigarov A. O. 1,3, 2 Orlova I. V., Mikhailov I. S. 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Эта онтология используется в случае, если в перечисленных выше и специализированных по предметным областям документа онтологиях не находится подходящего отношения.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T153726Z" creationid="eugeneai" creationdate="20170713T153726Z">
+        <seg>This ontology is used in the case if none of the above specialized ontological have a relevant term or a relationship denotation.</seg>
       </tuv>
     </tu>
     <tu>
