@@ -78,10 +78,26 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Elasticsearch обладает средствами нечеткого сравнения термов, что позволяет развивать систему в направлении реализации систем поиска релевантной информации.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T040714Z" creationid="eugeneai" creationdate="20170714T040714Z">
+        <seg>Elasticsearch has the means of fuzzy comparison of terms that allows construction of relevant information search.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Friend-of-a-friend (foaf) позволяет представлять информацию об агентах: физических и юридических лицах, а также программных агентов.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T151308Z" creationid="eugeneai" creationdate="20170713T151224Z">
         <seg>Friend-of-a-friend (foaf) describes information about agents: physical and legal entities, together with software agents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>JSON – основной формат хранения индексируемой информации в системе ElasticSearch, необходимо только на сервере выделить особым образом тройки, которые отвечают за представление ресурса пользователю в результатах поиска.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T040309Z" creationid="eugeneai" creationdate="20170714T040309Z">
+        <seg>JSON is the main format of storage of indexed information in ElasticSearch. For the representation of the resource to the user on the search result page some tripes must be marked as representative of the result.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg> 1. Общая архитектура системы верстки документов</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T014803Z" creationid="eugeneai" creationdate="20170714T014803Z">
+        <seg> 1. The general architecture of the document publishing system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Аннотация.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T112039Z" creationid="eugeneai" creationdate="20170712T112039Z">
@@ -130,6 +154,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T155023Z" creationid="eugeneai" creationdate="20170713T155023Z">
         <seg>The architecture of the system is presented in Fig. 1 (all relations shown in the figure are bi-directional).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>База данных системы представляет собой набор средств хранения и обеспечения доступа к разноформатным данным.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T020911Z" creationid="eugeneai" creationdate="20170714T020911Z">
+        <seg>A database of the system is a set of tools for storing and access providing to multi-format data.</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>В качестве таких компонент выступают системы ClioPatria [4] или Jena.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T022710Z" creationid="eugeneai" creationdate="20170714T022659Z">
+        <seg>ClioPatria [4] and Jena are the component implementations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>В некоторой степени это позволяет время, затрачиваемое на проектирование структуры базы данных для хранилищ частичноструктурированных документов, перенаправить на процесс решения предметной задачи: пользователь (разработчик) обрамляет текстовые данные семантической разметкой.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T125406Z" creationid="eugeneai" creationdate="20170712T125406Z">
@@ -170,6 +210,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T153338Z" creationid="eugeneai" creationdate="20170713T153338Z">
         <seg>In contrast to oa this ontology describes the documents mainly at metainformation level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>В процессе формирования окончательного вида документа модули интерпретации запрашивают необходимые данные и ресурсы на исходном сервере или других интернет-серверах.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T014654Z" creationid="eugeneai" creationdate="20170714T014654Z">
+        <seg>In the formation of the final form of the document, interpretation modules request the required data and resources on the source server or other Internet servers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,10 +302,34 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Для решения задач обеспечения стандартного для хранилищ данных сервиса доступа SPARQL и полнотекстового поиска разработаны компоненты хранения логического слоя и сопутствующих данных в виде графов троек.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T022614Z" creationid="eugeneai" creationdate="20170714T022341Z">
+        <seg>In order to organize standard SPARQL data source access and full-text search, storage components for the logical layer and related data as a graph of triples have been developed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Документ – это веб-страница, которая создается из отдельных частей при помощи алгоритмов, реализованных в системе программирования клиентского JavaScript.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T000456Z" creationid="eugeneai" creationdate="20170713T000456Z">
         <seg>The document is a web page that is composed out of different parts by means of the JavaScript routines functioning within the web browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Если по каким-либо причинам не удается реализовать сервис хранения троек средствами ClioPatria, то можно использовать сервисы на основе Java-библиотеки Jena.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T034720Z" creationid="eugeneai" creationdate="20170714T034720Z">
+        <seg>If for any reason an implementation of a service for storing triples by means ClioPatria is not convenient, the Java-based Jena library can be used for the service realization.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Если поиск оказался успешным, запускается тело модуля, которое в общем случае вносит изменения в документ.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T015105Z" creationid="eugeneai" creationdate="20170714T015105Z">
+        <seg>If the scan was successful,  the body of the module is executed, changing of the document content (tree structure).</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +390,22 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>К программам (предикатам) обеспечивается регламентированный доступ при помощи протокола Pengines [5], для которого реализованы библиотеки для популярных языков программирования, включая клиентский JavaScript, Java, Python.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T032607Z" creationid="eugeneai" creationdate="20170714T023248Z">
+        <seg>An [safe] access to the triples using so called Pengines protocol [5]. There are a number of implementation libraries for the protocols for popular programming languages, including client-side JavaScript, Java, Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Как было сказано выше, использованный формат разметки документов является развитием идей проекта Dokieli (https://github.com/linkeddata/dokieli) [2].</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T041750Z" creationid="eugeneai" creationdate="20170714T041750Z">
+        <seg>As was mentioned above, the used the format of the markup of the documents is a development of the project Dokieli (https://github.com/linkeddata/dokieli) [2].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Ключевые слова: открытые связанные данные, автоматизация верстки документа, семантическая разметка документа</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T114637Z" creationid="eugeneai" creationdate="20170712T114637Z">
@@ -358,6 +446,22 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Модули интерпретации семантической разметки реализованы в клиентском JavaScript.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T014844Z" creationid="eugeneai" creationdate="20170714T014844Z">
+        <seg>Interpretation modules of the semantic markup are implemented with client-side JavaScript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Модули сканируют структуру дерева документа, распознавая условия их активации.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T014934Z" creationid="eugeneai" creationdate="20170714T014934Z">
+        <seg>The modules scan the tree structure of the document, recognizing the conditions for their activation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>На основе созданных средств редактирования разработаны варианты цифровых архивов документов, предназначенных для решения задач формирования документации по учебным курсам, оформления результатов исследований высокопроизводительно секвенирования ДНК/РНК.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T133218Z" creationid="eugeneai" creationdate="20170712T133218Z">
@@ -370,6 +474,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T154930Z" creationid="eugeneai" creationdate="20170713T154930Z">
         <seg>In our research, there was a labor-intensive stage devoted to the search ontologies to represent documents by subject areas. The resource Linked Open Vocabularies (http://lov.okfn.org/dataset/lov/) happened to be very useful reference book as well as support of the community of researchers, which develop this resource.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Над файловой системой надстроен уровень, позволяющий отслеживать версии документов и развитие документа во времени, создавать интегральные резервные копии.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T021235Z" creationid="eugeneai" creationdate="20170714T021235Z">
+        <seg>The file system bis wrapped with a document versions tracking level to monitor the development of the document in time and create integrated backup copies.</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Они запускаются, как только основное содержимое загружается в браузер.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T014913Z" creationid="eugeneai" creationdate="20170714T014913Z">
+        <seg>They are executed as soon as the main content is loaded by the browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Они позволяют более детально описывать метаинформацию о творческом произведении типа файл, изображение, документ, раздел документа, а также задавать тип документа, текстовое содержимое, идентификацию произведений и т.д.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T154426Z" creationid="eugeneai" creationdate="20170713T154426Z">
@@ -406,10 +526,50 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Основной текст документа, загружаемый в первую очередь, храниться в виде файлов XML в файловой системе на сервере.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T020956Z" creationid="eugeneai" creationdate="20170714T020956Z">
+        <seg>The body of the document loaded in the first place is stored in XML files in the file system on the server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Основные аспекты функционирования модулей рассматривается далее по тексту работы в разделе приложений.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T040921Z" creationid="eugeneai" creationdate="20170714T040921Z">
+        <seg>The main aspects of module functioning is discussed later in the applications section.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Отображаемая пользователю страница загружается с сервера, где она конструируется из содержимого, хранимого в базе данных или файловой системе, результатов преобразований данных других источников алгоритмами конвертации, и элементов шаблона, который включает в отображаемую страницу интерфейс пользователя для управления представлениями и модулями интерпретации.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T014551Z" creationid="eugeneai" creationdate="20170714T014551Z">
+        <seg>The page is downloaded from a server where it is composed from a content stored in a database or a file system, results of an algorithmic data conversion of other sources, and elements of a template that includes the user view interface elements and interpretation modules on the displayed page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Первая система интересна тем, что полностью реализована на языках Prolog и С, она предоставляет несколько форматов компактного хранения данных, а также тесную интеграцию данных троек со средой программирования языка Prolog.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T022942Z" creationid="eugeneai" creationdate="20170714T022942Z">
+        <seg>The first system is interesting because it is implemented entirely with the programming languages Prolog and C. It supports several formats of compact storage of data, and tight integration of triple data with the runtime  and language environment of Prolog.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Первое отношение ссылается на аннотируемое содержимое через URI, а второе, которое в общем случае является множественным отношением, - на ресурс-аннотацию, например, на текст-описание ресурса или комментарий, связанный с ресурсом.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T150626Z" creationid="eugeneai" creationdate="20170713T150626Z">
         <seg>The first relation refers to the annotated content with a corresponding resource URIs, and the second one, which can be multiple, refers to an annotation resource, for example, a text description of the annotated resource or an associated comment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Полнотекстовый индекс обеспечивается системой Elasticsearch.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T034853Z" creationid="eugeneai" creationdate="20170714T034853Z">
+        <seg>A full-text index is provided by a Elasticsearch server.</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,10 +598,26 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Программные системы - аналоги</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T041454Z" creationid="eugeneai" creationdate="20170714T041454Z">
+        <seg>Analogs of the software system under development</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Проект ориентирован на создание средств редактирования текстов HTML5, представляющих научные публикации, несколькими соавторами.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T144918Z" creationid="eugeneai" creationdate="20170713T144918Z">
         <seg>The project focuses on implementation of HTML5 text-editing tools for authoring a scientific publication by several co-authors.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Проект представляет собой WYSIWIG-редактор размеченных LOD HTML-страниц, стилей (CSS) отображения и встроенного подграфа (его содержимое не видно в документе), представленного в различных форматах (TTL, N3, JSON-LD, TriG).</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T042057Z" creationid="eugeneai" creationdate="20170714T042057Z">
+        <seg>The project is a WYSIWYG-editor of LOD marked up HTML pages, display style sheet (CSS) and built-in subgraph (its content is not visible on the page) presented in different formats (TTL, N3, JSON-LD, TriG).</seg>
       </tuv>
     </tu>
     <tu>
@@ -486,10 +662,26 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Реализация этого сервиса достаточно проста, так как любой RDF-граф представим в формате JSON (JSON-LD).</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T035105Z" creationid="eugeneai" creationdate="20170714T035105Z">
+        <seg>The implementation of this service is simple enough because any RDF graph is representable as JSON (JSON-LD).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Редактируемый документ представляет собой аннотацию порождаемого документа, т.е. сначала он сам себя аннотирует, а после завершения подготовки окончательной версии документа – на его неизменяемую копию, например, на свой PDF.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T151109Z" creationid="eugeneai" creationdate="20170713T151109Z">
         <seg>The edited document is an annotation to the target document, i.e., at the beginning the documents annotates itself, and after the completion of the final version of the document, the annotation annotates the generated immutable copy, e.g., the PDF file of the document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Редактор позволяет добавлять в текст новую RDFa-разметку, при этом эта интересующая нас функция реализована в самом общем виде.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T042259Z" creationid="eugeneai" creationdate="20170714T042259Z">
+        <seg>The user is able to add a new RDFa markup with editor's tools, in this case, the function of our interest is implemented in the most general form.</seg>
       </tuv>
     </tu>
     <tu>
@@ -518,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Рис.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T014702Z" creationid="eugeneai" creationdate="20170714T014702Z">
+        <seg>Fig.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Семантическая разметка представляет логическую структуру документа, предметные отношения между сущностями, представленными в документе, например, выделяются стороны, заключающие некоторое соглашение, предмет соглашения; формальные данные; отношения “часть-целое”, при помощи которых осуществляется секционирование текста документа.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T001955Z" creationid="eugeneai" creationdate="20170713T001955Z">
@@ -534,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Среди существующих проектов управления семантически-размеченным содержимым, выделяется проект Semantic MediaWiki, где реализуется подход, базирующийся на обычном механизме Wiki для представления основного текстового содержимого сайта.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T041555Z" creationid="eugeneai" creationdate="20170714T041555Z">
+        <seg>_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Средства LOD обеспечивают информации, представленной в документе, логическую разметку, информативный базис для различных вариантов визуального представления и интерпретации, установку логических связей с другими документами, экспорт информации в другие документы, процедурную обработку и т.д.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T124031Z" creationid="eugeneai" creationdate="20170712T124031Z">
@@ -546,6 +754,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T150054Z" creationid="eugeneai" creationdate="20170713T150032Z">
         <seg>The ontology accepted in 2017, its main purpose is to describe the content (annotation) describing other content.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Такой уровень достаточно легко реализуется при помощи современных систем контроля версий, например, GIT или Subversion.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T022051Z" creationid="eugeneai" creationdate="20170714T022051Z">
+        <seg>This level is quite easy to be implemented using modern version control systems like GIT or Subversion.</seg>
       </tuv>
     </tu>
     <tu>
@@ -586,6 +802,22 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T112025Z" creationid="eugeneai" creationdate="20170712T112025Z">
         <seg>Ulan-Bator str. 3,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Формат XML позволяет представлять логическую разметку основной части документа, а также хранить ее в самом документе.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T022155Z" creationid="eugeneai" creationdate="20170714T022155Z">
+        <seg>The XML format allows to represent the logical structure of the main document body, and to store it in the document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Формирование документа заканчивается, как только все условия не были активированы, и не осталось необработанных команд.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T020738Z" creationid="eugeneai" creationdate="20170714T020738Z">
+        <seg>The document composition finalizes as soon as all conditions were activated.</seg>
       </tuv>
     </tu>
     <tu>
