@@ -54,78 +54,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>&lt;!-- Панель управления приложением --&gt;</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145238Z" creationid="eugeneai" creationdate="20170714T145238Z">
-        <seg>&lt;!-- The application control panel --&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>&lt;div taa:content="imei:neg-UMK"&gt;&lt;/div&gt; &lt;!--Лист согласования..</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145325Z" creationid="eugeneai" creationdate="20170714T145325Z">
-        <seg>&lt;div taa:content="imei:neg-UMK"&gt;&lt;/div&gt; &lt;!--The approval page..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>&lt;div taa:content="imei:title-page"&gt;&lt;/div&gt; &lt;!--Титульный лист..</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145303Z" creationid="eugeneai" creationdate="20170714T145303Z">
-        <seg>&lt;div taa:content="imei:title-page"&gt;&lt;/div&gt; &lt;!--The title page..</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>&lt;h2 class="nocount c"&gt;Содержание</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145337Z" creationid="eugeneai" creationdate="20170714T145337Z">
-        <seg>&lt;h2 class="nocount c"&gt;Table of Contents</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>&lt;h2 property="dc:title" datatype="xsd:string"&gt; Объем дисциплины (модуля) и виды учебной работы (разделяется по формам обучения)</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145531Z" creationid="eugeneai" creationdate="20170714T145531Z">
-        <seg>&lt;h2 property="dc:title" datatype="xsd:string"&gt; Amount of discipline (module) content and training activities (divided by form of training)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>&lt;h2 property="dc:title" datatype="xsd:string"&gt;Цели и задачи дисциплины (модуля)</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145405Z" creationid="eugeneai" creationdate="20170714T145405Z">
-        <seg>&lt;h2 property="dc:title" datatype="xsd:string"&gt;The goals and the objectives of the discipline (module)</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>&lt;head&gt; &lt;!-- Подключение стилевых таблиц и модулей  --&gt;</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145213Z" creationid="eugeneai" creationdate="20170714T145213Z">
-        <seg>&lt;head&gt; &lt;!-- Connecting stylesheets and modules --&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>&lt;html lang="ru" xmlns="http://www.w3.org/1999/xhtml"</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145145Z" creationid="eugeneai" creationdate="20170714T145145Z">
-        <seg>&lt;html lang="en" xmlns="http://www.w3.org/1999/xhtml"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>&lt;main lang="ru" resource="#annotation" typeof="oa:Annotation"</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145248Z" creationid="eugeneai" creationdate="20170714T145248Z">
-        <seg>&lt;main lang="en" resource="#annotation" typeof="oa:Annotation"</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>DBPedia resource (dbr) – пространство имен объектов (ресурсов) Wikipedia.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T153402Z" creationid="eugeneai" creationdate="20170713T153402Z">
@@ -206,26 +134,10 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>xml:lang="ru" metal:define-macro="page"&gt;</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145156Z" creationid="eugeneai" creationdate="20170714T145156Z">
-        <seg>xml:lang="en" metal:define-macro="page"&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg> 1. Общая архитектура системы верстки документов</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T014803Z" creationid="eugeneai" creationdate="20170714T014803Z">
         <seg> 1. The general architecture of the document publishing system</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Анализ опыта разработчиков LOD ресурсов показал, что для формирования отношения достаточно использовать RDFa-теги property, typeof и datatype.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T150403Z" creationid="eugeneai" creationdate="20170714T150403Z">
-        <seg>Analysis of the experience of the developers of LOD resources has shown that for the formation of the relationship is sufficient to use RDFa tags property, typeof and datatype.</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,14 +174,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>В LOD все ресурсы являются глобальными.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145746Z" creationid="eugeneai" creationdate="20170714T145746Z">
-        <seg>In LOD all the resources are global.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>В данном исследовании мы стремимся развить средства автоматизации разметки документа на основе анализа изменений документа, предложенной в [2], и конкретно в этой работе преследуется цель реализации одной из инфраструктурных задач – разработки средств создания документов на платформе веб-браузера.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T081457Z" creationid="eugeneai" creationdate="20170714T081457Z">
@@ -278,26 +182,10 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>В данном случае это достигается подстановкой пространства имен по умолчанию, полного URI-адреса текущей страницы, с левой стороны от названия ресурса.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145926Z" creationid="eugeneai" creationdate="20170714T145926Z">
-        <seg>In this case, this is achieved by substitution of the default namespace - the full URI of the current page - on the left hand side of the name of the resource.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>В дополнение к семантической разметке в текст документа встраиваются командные структуры, позволяющие активировать алгоритмы преобразования содержимого, например, инструкции включения частей одних документов в другие, грамматические преобразования фраз.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T144207Z" creationid="eugeneai" creationdate="20170713T005052Z">
         <seg>In addition to the semantic markup, command structures are embedded in the text of a document. Such structures are used for algorithm activation of content conversion, for example, some structures activate the inclusion of parts of other document in the current one, other instruction organize grammatical transformations of sentences.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>В дополнение к этому, руководство вуза с целью повышения качества предоставляемых образовательных услуг вводит собственные дополнения к форме, содержанию и требованиям к оформлению документации, в частности, к качеству конвертации в HTML для публикации на сайте вуза.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T134834Z" creationid="eugeneai" creationdate="20170714T134834Z">
-        <seg>In addition, the university management with the aim of improving the quality of educational services introduced its own additions to the form, content and requirements to the documentation typesetting, in particular, to the quality of the conversion to HTML for publication on the website of the university.</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,14 +206,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>В момент завершения редактирования текст сохраняется в файловой системе сервера.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T151743Z" creationid="eugeneai" creationdate="20170714T151743Z">
-        <seg>At the finishing time moment, the edited text stored on the server file system.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>В некоторой степени это позволяет время, затрачиваемое на проектирование структуры базы данных для хранилищ частичноструктурированных документов, перенаправить на процесс решения предметной задачи: пользователь (разработчик) обрамляет текстовые данные семантической разметкой.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T125406Z" creationid="eugeneai" creationdate="20170712T125406Z">
@@ -342,14 +222,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>В приведенном примере ключевые структуры выделены жирным шрифтом, прокомментируем эти структуры:</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145616Z" creationid="eugeneai" creationdate="20170714T145616Z">
-        <seg>In the presented example, the key structures are highlighted in bold. Let us comment these structures:</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>В процессе формирования окончательного вида документа модули интерпретации запрашивают необходимые данные и ресурсы на исходном сервере или других интернет-серверах.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T014654Z" creationid="eugeneai" creationdate="20170714T014654Z">
@@ -362,14 +234,6 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T145223Z" creationid="eugeneai" creationdate="20170713T145223Z">
         <seg>In the markup of a document, the following ontologies are used.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>В режиме редактирования рабочей программы (документа) все теги, имеющие комбинацию атрибутов property="cnt:chars" и datatype="xsd:string", преобразуются в редактируемый текст.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T151459Z" creationid="eugeneai" creationdate="20170714T151459Z">
-        <seg>In edit mode of the work program (document) all tags having the combination of attributes property="cnt:chars" and datatype="xsd:string" are converted to editable text.</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,26 +270,10 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Все ключевые статические шаблоны курсов можно поместить на одну страницу шаблонов.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T150216Z" creationid="eugeneai" creationdate="20170714T150216Z">
-        <seg>All the key static templates of courses can be placed on one template page.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Вся информация сохраняется либо на серверах, поддерживающих протокол Solid (https://solid.mit.edu/), либо локально в базе данных браузера.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T080802Z" creationid="eugeneai" creationdate="20170714T080802Z">
         <seg>All the information is stored either on servers that support the Protocol Solid (https://solid.mit.edu/), or locally in the database of a browser.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Далее пользователь может выполнить фиксацию (commit) изменений и синхронизацию текста сохраненного документа с сервером системы контроля версий текста.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T151854Z" creationid="eugeneai" creationdate="20170714T151854Z">
-        <seg>After that, the user can commit the changes and synchronize the text of the saved document with a repository.</seg>
       </tuv>
     </tu>
     <tu>
@@ -446,14 +294,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Данные курса и название специальности вставляются в шаблон из контекста документа.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T150107Z" creationid="eugeneai" creationdate="20170714T150107Z">
-        <seg>The course data and the name of the profession is inserted into the template from the context of the document.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Дескриптивные возможности технологий семантического веба, средства публикации документов HTML5, а также технологии LOD создают инфраструктурный базис средств создания (верстки) и публикации документов.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T115559Z" creationid="eugeneai" creationdate="20170712T115559Z">
@@ -470,14 +310,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Для генерации таких таблиц разработан сервер веб-страниц данных курсов.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T151151Z" creationid="eugeneai" creationdate="20170714T151151Z">
-        <seg>To generate such tables, a server of web pages of these courses has been developed.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Для достижения цели реализован набор серверных функций и функций клиентского (веб-браузерного) JavaScript, позволяющий создавать документы на стороне веб-браузера.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T125951Z" creationid="eugeneai" creationdate="20170712T125951Z">
@@ -486,26 +318,10 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Для минимального исполнения требований руководства вузов для каждого курса преподавателю требуется оформить как минимум три документа – рабочую программу курса, аннотацию к ней, а также ФОС.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T135100Z" creationid="eugeneai" creationdate="20170714T135100Z">
-        <seg>For the minimum fulfillment of the requirements of the university management for each course the instructor is required to design at least three documents: the working program of the course, the summary and the FAM.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Для решения задач обеспечения стандартного для хранилищ данных сервиса доступа SPARQL и полнотекстового поиска разработаны компоненты хранения логического слоя и сопутствующих данных в виде графов троек.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T022614Z" creationid="eugeneai" creationdate="20170714T022341Z">
         <seg>In order to organize standard SPARQL data source access and full-text search, storage components for the logical layer and related data as a graph of triples have been developed.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Для ясности пользователю представляется документ без taa:-включений с указанием этих включений при помощи специальных тегов и стилей.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T151650Z" creationid="eugeneai" creationdate="20170714T151650Z">
-        <seg>For clarity the document is displayed to the user without taa:-inclusions, and these inclusions are indicated with special tags and styles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -590,34 +406,10 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Исходный код проекта доступен в виде модулей языка программирования Python по следующему адресу: https://github.com/isu-enterprise.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T151925Z" creationid="eugeneai" creationdate="20170714T151925Z">
-        <seg>Project source code is available in modules the Python programming language at the following address: https://github.com/isu-enterprise.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>К программам (предикатам) обеспечивается регламентированный доступ при помощи протокола Pengines [5], для которого реализованы библиотеки для популярных языков программирования, включая клиентский JavaScript, Java, Python.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T032607Z" creationid="eugeneai" creationdate="20170714T023248Z">
         <seg>An [safe] access to the triples using so called Pengines protocol [5]. There are a number of implementation libraries for the protocols for popular programming languages, including client-side JavaScript, Java, Python.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Каждая комбинация отражается в учебном плане вуза, данные из которого ежегодно или два раза в год должны уточняться в рабочих программах.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T135355Z" creationid="eugeneai" creationdate="20170714T135355Z">
-        <seg>Each combination is presented in the curriculum of the university from which data is annually or twice a year should be synchronized in  the work programs.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Каждая страница сервера представляет какой-либо курс/модуль, представленный в учебном плане.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T151223Z" creationid="eugeneai" creationdate="20170714T151223Z">
-        <seg>Each page represents a course/module presented in a curriculum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -634,14 +426,6 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T114637Z" creationid="eugeneai" creationdate="20170712T114637Z">
         <seg>Keywords: Linked Open Data, automated composing a document, semantic markup of document</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Команда taa:content добавляет в документ текст другой страницы, адрес которой формируется интерпретацией параметра, например, taa:content="course:time-differ" включает в текст страницы сгенерированную таблицу распределения часовой нагрузки между видами занятия (лекции, практики, лабораторные, СРС, и т.д.).</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T151032Z" creationid="eugeneai" creationdate="20170714T150650Z">
-        <seg>The command taa:content adds text from another page to the current document. The address of the included text is formed by the interpretation of the parameter of the command, for example, taa:content="course:time-differ" adds the text of the table of distribution of time spent between the types of classes (lectures, practice, laboratory works, etc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -694,14 +478,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Министерство образования и науки Российской Федерации после ряда экспериментов перешло на широкомасштабное внедрение Болонского процесса в образовательную среду Российской Федерации.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T133008Z" creationid="eugeneai" creationdate="20170714T133008Z">
-        <seg>The Ministry of education and science of the Russian Federation after a series of experiments started the large-scale deployment of the Bologna process in the educational environment of the Russian Federation.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Модули интерпретации семантической разметки реализованы в клиентском JavaScript.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T014844Z" creationid="eugeneai" creationdate="20170714T014844Z">
@@ -734,14 +510,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>На этом фоне задача разработки нового учебного пособия теперь кажется более простой, чем раньше.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T143601Z" creationid="eugeneai" creationdate="20170714T143601Z">
-        <seg>The task of developing new handbook now seems to be more simple than before on the background of the document set preparation complexity.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Над файловой системой надстроен уровень, позволяющий отслеживать версии документов и развитие документа во времени, создавать интегральные резервные копии.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T021235Z" creationid="eugeneai" creationdate="20170714T021235Z">
@@ -762,14 +530,6 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T144713Z" creationid="eugeneai" creationdate="20170713T144713Z">
         <seg>The command structures interpretation mainly aimed at algorithmic text processing.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Одной из задач, решаемых в рамках этого внедрения – переход к компетентностно-ориентированному представлению требований к педагогическому процессу.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T133342Z" creationid="eugeneai" creationdate="20170714T133342Z">
-        <seg>One of the goals to be solved in the introduction is the transition to competence-oriented representation of the requirements to the pedagogical process.</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,22 +558,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Опыт показывает, что преподаватели в большей части не способны справиться с качественным оформлением документов в предоставленные им временные ограничения, что приводит к необходимости руководству кафедр нанимать секретаря-специалиста, функцией которого является доведение предоставленной документации до необходимого уровня качества.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T144348Z" creationid="eugeneai" creationdate="20170714T144348Z">
-        <seg>The raw statistic shows that most teachers are not able to cope with high-quality paperwork in the provided time constraints, resulting in the necessity to departments to hire a secretary, whose function is to bring documentation to the required quality level.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Основной модуль – isu.college.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T151935Z" creationid="eugeneai" creationdate="20170714T151935Z">
-        <seg>Main module is isu.college.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Основной текст документа, загружаемый в первую очередь, храниться в виде файлов XML в файловой системе на сервере.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T020956Z" creationid="eugeneai" creationdate="20170714T020956Z">
@@ -826,14 +570,6 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T040921Z" creationid="eugeneai" creationdate="20170714T040921Z">
         <seg>The main aspects of module functioning is discussed later in the applications section.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>От использования rel и about следует отказаться.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T150545Z" creationid="eugeneai" creationdate="20170714T150545Z">
-        <seg>The usage of rel and about should be avoided.</seg>
       </tuv>
     </tu>
     <tu>
@@ -862,14 +598,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Подготовка юридических документов</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T151948Z" creationid="eugeneai" creationdate="20170714T151948Z">
-        <seg>Designing of legal documents</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Полнотекстовый индекс обеспечивается системой Elasticsearch.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T034853Z" creationid="eugeneai" creationdate="20170714T034853Z">
@@ -882,14 +610,6 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T080910Z" creationid="eugeneai" creationdate="20170714T080910Z">
         <seg>The resulting texts can be downloaded to the user workstation.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Последние пять лет показали уровень продуманности принимаемых менеджерами министерства решений в части требований к представлению курса – разработано четыре поколения стандартов (1,2,3 и 3+) –, для которых требовалось представить документы в соответствующей обновленной форме.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T142410Z" creationid="eugeneai" creationdate="20170714T142410Z">
-        <seg>The last five years showed the level of forethought of decisions taken by the managers of the ministry in terms of requirements to the presentation of a course - four generations of the standards (1,2,3 and 3+) have been developed – for each generation the documents in the appropriate "new" form should be prepared.</seg>
       </tuv>
     </tu>
     <tu>
@@ -922,14 +642,6 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T081526Z" creationid="eugeneai" creationdate="20170714T081526Z">
         <seg>Applications of the technologies</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Проводимая реформа затрагивает все аспекты процесса, включая систему классификации специальностей (внедрение программ м направлений, специализация по уровням квалификации (бакалавриат, магистратура и др.), введение прикладного бакалавриата, перечень преподаваемых курсов, целей и задач курсов (согласование с компетенциями, заданными в Федеральном государственном стандарте), формы ведения занятий в вузе (введение интерактивных форм обучения), распределение лекционных и практических занятий и др.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T134320Z" creationid="eugeneai" creationdate="20170714T134320Z">
-        <seg>The reform affects all aspects of the process, including the system of classification of professions, introduction of "programs" and "directions", specialization by skill level (bachelor, master, etc.), introduction of applied bachelor degree, list of courses, goals and objectives of the courses agreed with the competencies specified in the Federal state educational standard, forms of conducting classes, e.g., the introduction of interactive forms, the distribution of lectures and practical sessions, etc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1006,14 +718,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Рассмотрим схему представления размеченной рабочей программы в разработанной системе.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145118Z" creationid="eugeneai" creationdate="20170714T145118Z">
-        <seg>Consider the scheme of representation of a marked up work program in the proposed system.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Реализация этого сервиса достаточно проста, так как любой RDF-граф представим в формате JSON (JSON-LD).</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T035105Z" creationid="eugeneai" creationdate="20170714T035105Z">
@@ -1070,14 +774,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Решение данной проблемы видится в разработке программной системы, позволяющей собирать тексты рабочих программ, аннотаций и ФОС из отдельных частей: перечня компетенций и распределения нагрузки (учебный план); содержания (преподаваемых тем модуля/курса) и ФОСа, тексты которых разделяется между разными версиями документов.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T144822Z" creationid="eugeneai" creationdate="20170714T144822Z">
-        <seg>The solution to this problem is supposed to be in developing a software system that allows collecting the texts of the work programs, abstracts and FAMs from separate parts: a list of competencies and curriculum; the subject and module contents, whose text parts shared between different versions of documents.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Рис.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T014702Z" creationid="eugeneai" creationdate="20170714T014702Z">
@@ -1102,26 +798,10 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Содержание страницы кодируется структурой ее URL и сверстывается в момент первого обращения.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T151317Z" creationid="eugeneai" creationdate="20170714T151317Z">
-        <seg>The page content is defined by the structure of its URL and rendered at the time of first treatment.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Среди существующих проектов управления семантически-размеченным содержимым, выделяется проект Semantic MediaWiki, где реализуется подход, базирующийся на обычном механизме Wiki для представления основного текстового содержимого сайта.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T041555Z" creationid="eugeneai" creationdate="20170714T041555Z">
         <seg>_</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Средств Microsoft Word и Excel, стандартно используемых для решения этой задачи, со встроенным VBA явно недостаточно.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145017Z" creationid="eugeneai" creationdate="20170714T145017Z">
-        <seg>Microsoft Word and Excel are commonly used for this task with a built-in VBA, but in this case it is clearly not enough.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1142,26 +822,10 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Страница, отображаемая пользователю, – это аннотация документа "#annotation", причем и аннотируемое содержимое, и текст аннотации – это одно и то же на этапе формирования документа: ресурс "#course-work-program".</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145733Z" creationid="eugeneai" creationdate="20170714T145733Z">
-        <seg>The page displayed to the user is the annotation of the document "#annotation", with both the annotated content and the annotation text being the same at the stage of formation of the document - resource "#course-work-program".</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Существует также огромный класс редакторов документов, ориентированных на создание научных публикаций (см., например, http://substance.io/).</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T081109Z" creationid="eugeneai" creationdate="20170714T081109Z">
         <seg>There is also a huge class of document editors focused on the creation of scientific publications, see, e.g., http://substance.io/.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Существующая документация курса дополнена новыми формами обязательных документов – фондом оценочных средств (ФОС), аннотациями курсов.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T134608Z" creationid="eugeneai" creationdate="20170714T134608Z">
-        <seg>The existing documentation of the courses is supplemented with new forms of mandatory documents: the Fund of assessment means (FAM), annotations of the courses.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1186,14 +850,6 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T001510Z" creationid="eugeneai" creationdate="20170713T001510Z">
         <seg>The text of the document is being marked up with RDFa attributes.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Текст разбивается на разделы, обрамляется тегами &lt;div&gt; и &lt;span&gt; со соответствующими структурами RDFa.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T150323Z" creationid="eugeneai" creationdate="20170714T150323Z">
-        <seg>The text is divided into sections, and wrapped by tags &lt;div&gt; and &lt;span&gt; with the relevant RDFa structures.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1230,22 +886,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Титульные листы формируются также из данных учебного плана и подготовленных шаблонов.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T144925Z" creationid="eugeneai" creationdate="20170714T144925Z">
-        <seg>The title pages are generated from data of curriculum and designed templates.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Титульный лист и лист согласования вставляются со страницы шаблонов “imei.html” (сведения об Институте математики, экономики и информатики Иркутского государственного университета).</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T150021Z" creationid="eugeneai" creationdate="20170714T150021Z">
-        <seg>The title page and the approval page are inserted from the page templates prepared in “imei.html” (information about the Institute of mathematics, Economics and Informatics of Irkutsk state University).</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Улан-Баторская, д.3, г.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T112025Z" creationid="eugeneai" creationdate="20170712T112025Z">
@@ -1278,14 +918,6 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Целю преподавания дисциплины "Технологии программирования" является освоение ...&lt;/p&gt;</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T145450Z" creationid="eugeneai" creationdate="20170714T145450Z">
-        <seg>The purpose of the discipline "Programming Technologies" studying is the development of ...&lt;/p&gt;</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Черкашин Е.А.1,2,3, Шигаров А.О.1,3, Орлова И.В.2, Михайлов И.С.4</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T111508Z" creationid="eugeneai" creationdate="20170712T111508Z">
@@ -1294,34 +926,10 @@
     </tu>
     <tu>
       <tuv lang="RU">
-        <seg>Шаблоны текста обозначаются атрибутом id.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T151358Z" creationid="eugeneai" creationdate="20170714T151358Z">
-        <seg>The text templates are identified by the id attribute.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
         <seg>Эта онтология используется в случае, если в перечисленных выше и специализированных по предметным областям документа онтологиях не находится подходящего отношения.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170713T153726Z" creationid="eugeneai" creationdate="20170713T153726Z">
         <seg>This ontology is used in the case if none of the above specialized ontological have a relevant term or a relationship denotation.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Это делает структуру семантической разметки более строгой за счет уменьшения количества сущностей.</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T150609Z" creationid="eugeneai" creationdate="20170714T150609Z">
-        <seg>This makes the structure of semantic markup to be more strict by reducing the number of entities.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="RU">
-        <seg>Этот набор составляется для каждой возможной комбинации: вуз, кафедра, специальность, направление (профиль), программа, квалификация (бакалавр, специалист, магистрант, аспирант), академический или прикладной вариант квалификации, форма обучения (очная, заочная, вечерняя, очно-заочная и др.).</seg>
-      </tuv>
-      <tuv lang="EN-US" changeid="eugeneai" changedate="20170714T135257Z" creationid="eugeneai" creationdate="20170714T135257Z">
-        <seg>This set of documents is prepared for each following possible combination: the university, department, specialty, direction (profile), program, qualification level (bachelor, specialist, undergraduate, graduate), academic or applied version of the qualification, [form of study (full-time, part-time, evening, part-time,] etc.).</seg>
       </tuv>
     </tu>
     <tu>
