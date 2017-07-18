@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.2_0_9954:9957" segtype="sentence" srclang="RU"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="RU"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -758,6 +758,14 @@
     </tu>
     <tu>
       <tuv lang="RU">
+        <seg>Иркутского научного центра СО РАН № 4.1.2;</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170718T070704Z" creationid="eugeneai" creationdate="20170718T070704Z">
+        <seg>Irkutsk scientific center of SB RAS No 4.1.2;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
         <seg>Использование средств крупномасштабной автоматизации документооборота в такой среде связано с большими материальными затратами на приобретение и/или постоянное усовершенствование программного продукта.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170712T142403Z" creationid="eugeneai" creationdate="20170712T142403Z">
@@ -1378,6 +1386,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="eugeneai" changedate="20170717T083824Z" creationid="eugeneai" creationdate="20170717T083824Z">
         <seg>The recognition result of the tables is the data in a relational table [7].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="RU">
+        <seg>Результаты получены при частичной поддержке следующих проектов:</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="eugeneai" changedate="20170718T070747Z" creationid="eugeneai" creationdate="20170718T070747Z">
+        <seg>The results obtained with the partial support of the following projects:</seg>
       </tuv>
     </tu>
     <tu>
