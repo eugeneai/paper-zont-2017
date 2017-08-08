@@ -1,14 +1,14 @@
-7/18/17 4:30 PM
+8/8/17 3:52 PM
 Project Statistics
 
                  	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
-Total:           	     324	 4264	                      31886	                        35613	     1	
-Remaining:       	     100	  687	                       4911	                         5352	     1	
-Unique:          	     300	 4242	                      31733	                        35451	     1	
-Unique Remaining:	      81	  677	                       4832	                         5271	     1	
+Total:           	     323	 4264	                      31894	                        35620	     1	
+Remaining:       	      73	  426	                       2951	                         3170	     1	
+Unique:          	     299	 4242	                      31741	                        35458	     1	
+Unique Remaining:	      54	  416	                       2872	                         3089	     1	
 
 
 Individual File Statistics:
 
 File Name 	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
-paper.docx	           324	               100	            300	                       81	       4264	            687	        4242	                   677	                            31886	                                 4911	                             31733	                                        4832	                              35613	                                   5352	                               35451	                                          5271	
+paper.docx	           323	                73	            299	                       54	       4264	            426	        4242	                   416	                            31894	                                 2951	                             31741	                                        2872	                              35620	                                   3170	                               35458	                                          3089	

@@ -6,6 +6,22 @@
 <!-- Default translations -->
     <tu>
       <tuv xml:lang="RU">
+        <seg>(to appear) [Электронный ресурс] Preprint URL:http://csarven.ca/dokieli-rww</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T074740Z" creationid="eugeneai" creationdate="20170808T074740Z">
+        <seg>(to appear) Preprint URL:http://csarven.ca/dokieli-rww</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>// Материалы Всероссийской конференции с международным участием «Знания – Онтологии – Теории» (ЗОНТ-2013), 8 – 10 октября 2013 г., Новосибирск.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T074703Z" creationid="eugeneai" creationdate="20170808T074703Z">
+        <seg>Procs. of International conference on Applied Internet and Information Technologies. University of Novi Sad, Technical Faculty ”Mihajlo Pupin”, Zrenjanin, Zrenjanin, Serbia, October 24, 2014. pp. 201-206.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>134, г.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T111622Z" creationid="eugeneai" creationdate="20170712T111622Z">
@@ -14,10 +30,34 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>19, № 1, С.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T075046Z" creationid="eugeneai" creationdate="20170808T075046Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>1Институт динамики систем и теории управления СО РАН им.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T111556Z" creationid="eugeneai" creationdate="20170712T111556Z">
         <seg>1 V.M. Matrosov's institute of system dynamics and control theory SB RAS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>2 т., 500 с., ISSN 0568-661X</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T074710Z" creationid="eugeneai" creationdate="20170808T074710Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>2014.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T075043Z" creationid="eugeneai" creationdate="20170808T075043Z">
+        <seg> </seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +90,86 @@
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T111846Z" creationid="eugeneai" creationdate="20170712T111846Z">
         <seg>83,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>87-99.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T075047Z" creationid="eugeneai" creationdate="20170808T075047Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>&lt;!-- Панель управления приложением --&gt;</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145238Z" creationid="eugeneai" creationdate="20170714T145238Z">
+        <seg>&lt;!-- The application control panel --&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>&lt;div taa:content="imei:neg-UMK"&gt;&lt;/div&gt; &lt;!--Лист согласования..</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145325Z" creationid="eugeneai" creationdate="20170714T145325Z">
+        <seg>&lt;div taa:content="imei:neg-UMK"&gt;&lt;/div&gt; &lt;!--The approval page..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>&lt;div taa:content="imei:title-page"&gt;&lt;/div&gt; &lt;!--Титульный лист..</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145303Z" creationid="eugeneai" creationdate="20170714T145303Z">
+        <seg>&lt;div taa:content="imei:title-page"&gt;&lt;/div&gt; &lt;!--The title page..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>&lt;h2 class="nocount c"&gt;Содержание</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145337Z" creationid="eugeneai" creationdate="20170714T145337Z">
+        <seg>&lt;h2 class="nocount c"&gt;Table of Contents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>&lt;h2 property="dc:title" datatype="xsd:string"&gt; Объем дисциплины (модуля) и виды учебной работы (разделяется по формам обучения)</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T062853Z" creationid="eugeneai" creationdate="20170714T145531Z">
+        <seg>&lt;h2 property="dc:title" datatype="xsd:string"&gt; The аmount of discipline (module) content and training activities (divided by form of training)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>&lt;h2 property="dc:title" datatype="xsd:string"&gt;Цели и задачи дисциплины (модуля)</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145405Z" creationid="eugeneai" creationdate="20170714T145405Z">
+        <seg>&lt;h2 property="dc:title" datatype="xsd:string"&gt;The goals and the objectives of the discipline (module)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>&lt;head&gt; &lt;!-- Подключение стилевых таблиц и модулей  --&gt;</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145213Z" creationid="eugeneai" creationdate="20170714T145213Z">
+        <seg>&lt;head&gt; &lt;!-- Connecting stylesheets and modules --&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>&lt;html lang="ru" xmlns="http://www.w3.org/1999/xhtml"</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145145Z" creationid="eugeneai" creationdate="20170714T145145Z">
+        <seg>&lt;html lang="en" xmlns="http://www.w3.org/1999/xhtml"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>&lt;main lang="ru" resource="#annotation" typeof="oa:Annotation"</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145248Z" creationid="eugeneai" creationdate="20170714T145248Z">
+        <seg>&lt;main lang="en" resource="#annotation" typeof="oa:Annotation"</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,6 +222,14 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>OntoWiki базируется на преимущественном использовании логического представления информации в виде семантической сети.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T062325Z" creationid="eugeneai" creationdate="20170808T062325Z">
+        <seg>OntoWiki is based on the primary usage of the logical description of information in a semantic network.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Open Annotation (oa).</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170713T145228Z" creationid="eugeneai" creationdate="20170713T145228Z">
@@ -126,6 +254,22 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>[Электронный ресурс]</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T075053Z" creationid="eugeneai" creationdate="20170808T075053Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>[Электронный ресурс] URL:http://svn.aksw.org/papers/2011/COMPSAC_lod2.eu/public.pdf (дата обращения: 30.05.2013).</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T074815Z" creationid="eugeneai" creationdate="20170808T074815Z">
+        <seg>URL:http://svn.aksw.org/papers/2011/COMPSAC_lod2.eu/public.pdf (access date: 30.05.2013).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>eugeneai@icc.ru, shigarov@icc.ru</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T112031Z" creationid="eugeneai" creationdate="20170712T112031Z">
@@ -134,10 +278,58 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>xml:lang="ru" metal:define-macro="page"&gt;</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145156Z" creationid="eugeneai" creationdate="20170714T145156Z">
+        <seg>xml:lang="en" metal:define-macro="page"&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg> 1. Общая архитектура системы верстки документов</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T014803Z" creationid="eugeneai" creationdate="20170714T014803Z">
         <seg> 1. The general architecture of the document publishing system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Авторы благодарны сообществу Linked Opev Vocabularies (http://lov.okfn.org/dataset/lov/) за помощь, оказанную при поиске формализаций предметных областей (онтологий).</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T065917Z" creationid="eugeneai" creationdate="20170808T065917Z">
+        <seg>The authors are grateful to the community of Linked Open Vocabularies (http://lov.okfn.org/dataset/lov/) resource for assistance in the search for formalizations of subject areas (ontologies).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Адрес модуля приложения - https://github.com/isu-enterprise/isu.aquarium.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T082855Z" creationid="eugeneai" creationdate="20170717T082855Z">
+        <seg>The address of the application source code development page is https://github.com/isu-enterprise/isu.aquarium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Алгоритмы верстки запускаются при наличии соответствующих условий в узлах дерева документа.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T091712Z" creationid="eugeneai" creationdate="20170717T091712Z">
+        <seg>The layout algorithms are activated in the presence of corresponding conditions in the nodes of the document tree.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Алгоритмы грамматических преобразований реализованы на сервере.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T082415Z" creationid="eugeneai" creationdate="20170717T082415Z">
+        <seg>The grammar transformation algorithms are implemented on the server.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Анализ опыта разработчиков LOD ресурсов показал, что для формирования отношения достаточно использовать RDFa-теги property, typeof и datatype.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T150403Z" creationid="eugeneai" creationdate="20170714T150403Z">
+        <seg>Analysis of the experience of the developers of LOD resources has shown that for the formation of the relationship is sufficient to use RDFa tags property, typeof and datatype.</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,10 +350,50 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Атрибут data-case задает склонение (падеж и число), в которое надо поставить слова текста.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T082408Z" creationid="eugeneai" creationdate="20170717T082408Z">
+        <seg>The attribute data-case specifies the declination (the case and number) of the words of the text to be substituted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Атрибуты data-m и data-f задают вариант слов, соответствующий роду основного существительного в тексте.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T082254Z" creationid="eugeneai" creationdate="20170717T082254Z">
+        <seg>The attributes data-m (masculine) and data-f (feminine) specify a variant of the word corresponding to the genus of the main noun in the text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>База данных системы представляет собой набор средств хранения и обеспечения доступа к разноформатным данным.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T020911Z" creationid="eugeneai" creationdate="20170714T020911Z">
         <seg>A database of the system is a set of tools for storing and access providing to multi-format data.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Благодарности</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T092519Z" creationid="eugeneai" creationdate="20170717T092501Z">
+        <seg>Acknowledgments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Благодаря нотации LOD реализуется возможность интеграции данных документов и веб-приложений в один результирующий текстовый документ.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T091427Z" creationid="eugeneai" creationdate="20170717T091427Z">
+        <seg>Thanks to the LOD notation, a data integration of documents and web applications into a single resulting text document is being implemented.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Благодаря этому технология очень просто масштабируема даже на сервера хранения данных, функционирующих в режиме разделяемого хостинга и поддерживающих среду программирования PHP.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T091924Z" creationid="eugeneai" creationdate="20170717T091924Z">
+        <seg>This technology is very scalable even for shared hosting environment supporting only of PHP programming.</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,10 +406,34 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>В LOD все ресурсы являются глобальными.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145746Z" creationid="eugeneai" creationdate="20170714T145746Z">
+        <seg>In LOD all the resources are global.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>В данном исследовании мы стремимся развить средства автоматизации разметки документа на основе анализа изменений документа, предложенной в [2], и конкретно в этой работе преследуется цель реализации одной из инфраструктурных задач – разработки средств создания документов на платформе веб-браузера.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T081457Z" creationid="eugeneai" creationdate="20170714T081457Z">
         <seg>In this study, the development of tools is aimed at automating the markup of a document based on the analysis of document changes proposed in [2], and specifically in this work, at implementing one of the infrastructural problems connected with a creation of the documents on the platform web browser controlled with LOD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>В данном случае это достигается подстановкой пространства имен по умолчанию, полного URI-адреса текущей страницы, с левой стороны от названия ресурса.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145926Z" creationid="eugeneai" creationdate="20170714T145926Z">
+        <seg>In this case, this is achieved by substitution of the default namespace - the full URI of the current page - on the left hand side of the name of the resource.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>В докладе обсуждается вопрос применения технологий Linked Open Data (LOD, открытых связанных данных) для решения задач создания текстовых документов средствами, предоставляемыми современными веб-браузерами.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T091352Z" creationid="eugeneai" creationdate="20170717T091352Z">
+        <seg>The report discusses the utilization of the Linked Open Data (LOD) technologies for solving problems of creating text documents with the editing and programming means provided by modern web browsers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,6 +446,14 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>В дополнение к этому, руководство вуза с целью повышения качества предоставляемых образовательных услуг вводит собственные дополнения к форме, содержанию и требованиям к оформлению документации, в частности, к качеству конвертации в HTML для публикации на сайте вуза.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T134834Z" creationid="eugeneai" creationdate="20170714T134834Z">
+        <seg>In addition, the university management with the aim of improving the quality of educational services introduced its own additions to the form, content and requirements to the documentation typesetting, in particular, to the quality of the conversion to HTML for publication on the website of the university.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>В качестве основы семантической разметки документа использованы результаты открытого проекта Dokieli [3].</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170713T144801Z" creationid="eugeneai" creationdate="20170713T144801Z">
@@ -198,10 +462,18 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
-        <seg>В качестве таких компонент выступают системы ClioPatria [4] или Jena.</seg>
+        <seg>В качестве таких компонент выступают системы ClioPatria [4] и Jena.</seg>
       </tuv>
-      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T022710Z" creationid="eugeneai" creationdate="20170714T022659Z">
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T061646Z" creationid="eugeneai" creationdate="20170808T061646Z">
         <seg>ClioPatria [4] and Jena are the component implementations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>В момент завершения редактирования текст сохраняется в файловой системе сервера.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T151743Z" creationid="eugeneai" creationdate="20170714T151743Z">
+        <seg>At the finishing time moment, the edited text stored on the server file system.</seg>
       </tuv>
     </tu>
     <tu>
@@ -214,10 +486,34 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>В отличие от Semantic MediaWiki в проекте OntoWiki аналогичные результаты получены, начиная с другой отправной точки.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T062302Z" creationid="eugeneai" creationdate="20170808T062302Z">
+        <seg>Unlike Semantic MediaWiki, OntoWiki project similar results were obtained starting from different ideally.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>В отличие от oa эта онтология представляет, в основном, ментаинформацию о творческом произведении.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170713T153338Z" creationid="eugeneai" creationdate="20170713T153338Z">
         <seg>In contrast to oa this ontology describes the documents mainly at metainformation level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>В приведенном примере ключевые структуры выделены жирным шрифтом, прокомментируем эти структуры:</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145616Z" creationid="eugeneai" creationdate="20170714T145616Z">
+        <seg>In the presented example, the key structures are highlighted in bold. Let us comment these structures:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>В приложении добавлен режим редактирования документа в виде формы.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T081450Z" creationid="eugeneai" creationdate="20170717T081426Z">
+        <seg>The application has a mode for the document-editing in a view of form to be filled in.</seg>
       </tuv>
     </tu>
     <tu>
@@ -230,10 +526,34 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
-        <seg>В разметке документов используются следующие онтологии.</seg>
+        <seg>В разметке документов используются ряд стандартизованных онтологий.</seg>
       </tuv>
-      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170713T145223Z" creationid="eugeneai" creationdate="20170713T145223Z">
-        <seg>In the markup of a document, the following ontologies are used.</seg>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T061313Z" creationid="eugeneai" creationdate="20170808T061313Z">
+        <seg>In the markup of a document, a number of standardized ontologies are used.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>В режиме редактирования рабочей программы (документа) все теги, имеющие комбинацию атрибутов property="cnt:chars" и datatype="xsd:string", преобразуются в редактируемый текст.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T151459Z" creationid="eugeneai" creationdate="20170714T151459Z">
+        <seg>In edit mode of the work program (document) all tags having the combination of attributes property="cnt:chars" and datatype="xsd:string" are converted to editable text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>В результате реализации данного сервиса ЛИН СО РАН получит возможность интегрировать данные о микробиоме озера Байкал в мировую исследовательскую среду видов растений, животных и микроорганизмов по аналогии с [8].</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T065523Z" creationid="eugeneai" creationdate="20170808T065523Z">
+        <seg>The implementation of this service for LIN SB RAS, the researchers will integrate data on the microbiome of lake Baikal in the global research environment of species of plants, animals and micro-organisms similar to [8].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>В текст добавляются аннотации при помощи специальной разметки.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T061832Z" creationid="eugeneai" creationdate="20170808T061832Z">
+        <seg>The text of the document is being marked up with RDFa attributes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,10 +590,66 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Верстка документа осуществляется при помощи алгоритмов, интерпретирующих отношения между элементами дерева HTML.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T091615Z" creationid="eugeneai" creationdate="20170717T091550Z">
+        <seg>The editing and typesetting of the documents is carried on using algorithms that interpret the relation between the elements of document's HTML tree.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Восстановление логической структуры таблиц из неструктурированных текстов на основе логического вывода // Вычислительные технологии.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T075042Z" creationid="eugeneai" creationdate="20170808T075042Z">
+        <seg>Rule-Based Table Analysis and Interpretation // Communications in Computer and Information Science. Springer. 2015. Vol. 538. pp. 175-186. URL:http://link.springer.com/chapter/10.1007%2F978-3-319-24770-0_16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Все ключевые статические шаблоны курсов можно поместить на одну страницу шаблонов.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T150216Z" creationid="eugeneai" creationdate="20170714T150216Z">
+        <seg>All the key static templates of courses can be placed on one template page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Вся информация сохраняется либо на серверах, поддерживающих протокол Solid (https://solid.mit.edu/), либо локально в базе данных браузера.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T080802Z" creationid="eugeneai" creationdate="20170714T080802Z">
         <seg>All the information is stored either on servers that support the Protocol Solid (https://solid.mit.edu/), or locally in the database of a browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Далее пользователь может выполнить фиксацию (commit) изменений и синхронизацию текста сохраненного документа с сервером системы контроля версий текста.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T151854Z" creationid="eugeneai" creationdate="20170714T151854Z">
+        <seg>After that, the user can commit the changes and synchronize the text of the saved document with a repository.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Дальнейшее развитие данного проекта осуществляется по нескольким направлениям: а) совершенствование средств верстки документов, б) автоматизация разметки на основе анализа изменения документов [2], в) реализация практических приложений, г) сбор дополнительной информации о потребностях пользователей, д) разработки средств обеспечения регламентированного доступа к информации.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T092318Z" creationid="eugeneai" creationdate="20170717T092318Z">
+        <seg>Further development of the project is carried out in several directions: a) improvement of the means of typesetting documents, b) the automation of the document structure recognition based on the analysis of its changes [2], c) the implementation of domain applications, d) the collection and analysis of user activity and requirements, d) development of a regulated access to documents.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Дальнейшее развитие программных технологий</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T082907Z" creationid="eugeneai" creationdate="20170717T082907Z">
+        <seg>Further development of the technologies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Дальнейшее совершенствование данной программной системы ведётся в направлении построения графа документооборота на основе анализа передачи данных между документами.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T082831Z" creationid="eugeneai" creationdate="20170717T082831Z">
+        <seg>Further improvement of the software is a construction of a workflow graph based on analysis of data transfer between documents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -294,6 +670,30 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Данные курса и название специальности вставляются в шаблон из контекста документа.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T150107Z" creationid="eugeneai" creationdate="20170714T150107Z">
+        <seg>The course data and the name of the profession is inserted into the template from the context of the document.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Данные, хранимые в этих источниках, являются ценным ресурсом при формировании документов.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T083133Z" creationid="eugeneai" creationdate="20170717T083133Z">
+        <seg>These sources data is a valuable resource in the document editing.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Данный пример выражает факт, что доверитель (fibol:designatesSignatory) удостоверяется (adoc:hasPassport) при помощи паспорта (acrt:qualification dbr:Passport).</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T081225Z" creationid="eugeneai" creationdate="20170717T081225Z">
+        <seg>This example expresses the fact that the principal (fibol:designatesSignatory) is being certified (adoc:hasPassport) with a passport (acrt:qualification dbr:Passport).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Дескриптивные возможности технологий семантического веба, средства публикации документов HTML5, а также технологии LOD создают инфраструктурный базис средств создания (верстки) и публикации документов.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T115559Z" creationid="eugeneai" creationdate="20170712T115559Z">
@@ -310,10 +710,34 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
-        <seg>Для достижения цели реализован набор серверных функций и функций клиентского (веб-браузерного) JavaScript, позволяющий создавать документы на стороне веб-браузера.</seg>
+        <seg>Для генерации таких таблиц разработан сервер веб-страниц данных курсов.</seg>
       </tuv>
-      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T125951Z" creationid="eugeneai" creationdate="20170712T125951Z">
-        <seg>To achieve the goal a set of server functions and client (web-browser) JavaScript routines has been developed that allows the user to create documents with the web browser.</seg>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T151151Z" creationid="eugeneai" creationdate="20170714T151151Z">
+        <seg>To generate such tables, a server of web pages of these courses has been developed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Для достижения цели реализован набор серверных функций и функций клиентского (веб-браузерного) JavaScript, позволяющий создавать документы на рабочей станции пользователя.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T060620Z" creationid="eugeneai" creationdate="20170808T060620Z">
+        <seg>To achieve the goal, a set of server functions and client (web-browser) JavaScript routines has been developed that allows the user to create documents with the web browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Для каждой ячейки таблицы в самом общем случае задается координата ячейки в кубе и свойства хранимого значения, например, тип данных и единицы измерения.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T084015Z" creationid="eugeneai" creationdate="20170717T084015Z">
+        <seg>For each table cell, in a general case, a coordinate of the cell in the cube and the properties of the stored values, for example, the data type and units have been specified.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Для минимального исполнения требований руководства вузов для каждого курса преподавателю требуется оформить как минимум три документа – рабочую программу курса, аннотацию к ней, а также ФОС.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T135100Z" creationid="eugeneai" creationdate="20170714T135100Z">
+        <seg>For the minimum fulfillment of the requirements of the university management for each course the instructor is required to design at least three documents: the working program of the course, the summary and the FAM.</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,10 +750,42 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Для решения этой важной задачи коллективом авторов ведется разработка технологий преобразования, анализа, интерпретации, очистки и отслеживания происхождения табличных данных из неструктурированных источников, концептуализации их естественно-языкового содержания.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T083450Z" creationid="eugeneai" creationdate="20170717T083450Z">
+        <seg>The authors develop technologies for conversion, analysis, interpretation, cleaning and tracking the provenance of the tabular data from unstructured sources, the conceptualization of their natural-language content to provide a solution for this important task.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Для этого необходимо дополнительно размечать текстовые и табличные данные RDFa-конструкциями, поддерживаемыми системами обеспечения доступа к данным LOD в биологии, например, BIO2RDF (http://bio2rdf.org/).</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T084529Z" creationid="eugeneai" creationdate="20170717T084529Z">
+        <seg>In order to prepare the data and paper publication, the text and tables are to be additionally RDFa marked up with  formats supported by biological LOD data servers, e.g., BIO2RDF (http://bio2rdf.org/).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Для ясности пользователю представляется документ без taa:-включений с указанием этих включений при помощи специальных тегов и стилей.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T151650Z" creationid="eugeneai" creationdate="20170714T151650Z">
+        <seg>For clarity the document is displayed to the user without taa:-inclusions, and these inclusions are indicated with special tags and styles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Документ – это веб-страница, которая создается из отдельных частей при помощи алгоритмов, реализованных в системе программирования клиентского JavaScript.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170713T000456Z" creationid="eugeneai" creationdate="20170713T000456Z">
         <seg>The document is a web page that is composed out of different parts by means of the JavaScript routines functioning within the web browser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Другой важной задачей анализа неструктурированной информации является автоматизация разметки однотипных документов по образцу.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T090623Z" creationid="eugeneai" creationdate="20170717T090607Z">
+        <seg>Another important task of analysis of unstructured information is to automate the layout and the structure recognition of similar documents according to a template.</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,6 +806,14 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Задача актуальна, например, в вузах, где накоплено большое количество материала в виде учебных программ и методического обеспечения, который требует преобразования в различные формы представления: учебные программы по стандарту ФОС-3+, электронные курсы moodle и др.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T090842Z" creationid="eugeneai" creationdate="20170717T090842Z">
+        <seg>The task is relevant for universities, where a large amount of material in the form of training programs and handbooks are accumulated. The material could be converted into various forms of preparation, such as training programs on the modern standard FOS-3+, e-courses of moodle, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Задача актуальна, прежде всего, в среде малого бизнеса, где нет устоявшихся информационных потоков и связей между документами, что, в основном, обусловлено динамичностью самого бизнеса.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T141644Z" creationid="eugeneai" creationdate="20170712T141644Z">
@@ -366,6 +830,30 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Заключение</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T091225Z" creationid="eugeneai" creationdate="20170717T091225Z">
+        <seg>Conclusion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Значение атрибута class, равное “disp” задает возможность подстановки ранее отредактированной в форме строки, идентифицированной id, в текст тега.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T065409Z" creationid="eugeneai" creationdate="20170808T065409Z">
+        <seg>The value of the class attribute equal to “disp” indicates that an edited string identified by id attribute is substitued as the text in this tag.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Издательство «РИЦ Прайс-курьер», 2013.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T074707Z" creationid="eugeneai" creationdate="20170808T074707Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Иркутск, 664033, Россия</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T111626Z" creationid="eugeneai" creationdate="20170712T111626Z">
@@ -378,6 +866,14 @@
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T111929Z" creationid="eugeneai" creationdate="20170712T111929Z">
         <seg>Irkutsk, 664033, Russia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Иркутского научного центра СО РАН № 4.1.2;</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170718T070704Z" creationid="eugeneai" creationdate="20170718T070704Z">
+        <seg>Irkutsk scientific center of SB RAS No 4.1.2;</seg>
       </tuv>
     </tu>
     <tu>
@@ -406,10 +902,34 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
-        <seg>К программам (предикатам) обеспечивается регламентированный доступ при помощи протокола Pengines [5], для которого реализованы библиотеки для популярных языков программирования, включая клиентский JavaScript, Java, Python.</seg>
+        <seg>Исходный код проекта доступен в виде модулей языка программирования Python по следующему адресу: https://github.com/isu-enterprise.</seg>
       </tuv>
-      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T032607Z" creationid="eugeneai" creationdate="20170714T023248Z">
-        <seg>An [safe] access to the triples using so called Pengines protocol [5]. There are a number of implementation libraries for the protocols for popular programming languages, including client-side JavaScript, Java, Python.</seg>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T151925Z" creationid="eugeneai" creationdate="20170714T151925Z">
+        <seg>Project source code is available in modules the Python programming language at the following address: https://github.com/isu-enterprise.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Каждая комбинация отражается в учебном плане вуза, данные из которого ежегодно или два раза в год должны уточняться в рабочих программах.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T135355Z" creationid="eugeneai" creationdate="20170714T135355Z">
+        <seg>Each combination is presented in the curriculum of the university from which data is annually or twice a year should be synchronized in  the work programs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Каждая страница сервера представляет какой-либо курс/модуль, представленный в учебном плане.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T151223Z" creationid="eugeneai" creationdate="20170714T151223Z">
+        <seg>Each page represents a course/module presented in a curriculum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Каждый алгоритм вносит в дерево изменения, формирующий окончательное содержание и вид документа.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T091811Z" creationid="eugeneai" creationdate="20170717T091811Z">
+        <seg>Each algorithm changes the tree structure, constructing the final content and layout of the document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,10 +942,26 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Клиентскому программному обеспечению обеспечивается регламентированный доступ к программам (предикатам) сервера при помощи протокола Pengines [5], для которого реализованы библиотеки для популярных языков программирования, включая JavaScript, Java, Python.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T061815Z" creationid="eugeneai" creationdate="20170808T061815Z">
+        <seg>A regulated access to the triples is supported using so called Pengines protocol [5]. There are a number of implementation libraries for the protocols for popular programming languages, including client-side JavaScript, Java, Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Ключевые слова: открытые связанные данные, автоматизация верстки документа, семантическая разметка документа</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T114637Z" creationid="eugeneai" creationdate="20170712T114637Z">
         <seg>Keywords: Linked Open Data, automated composing a document, semantic markup of document</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Команда taa:content добавляет в документ текст другой страницы, адрес которой формируется интерпретацией параметра, например, taa:content="course:time-differ" включает в текст страницы сгенерированную таблицу распределения часовой нагрузки между видами занятия (лекции, практики, лабораторные, СРС, и т.д.).</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T151032Z" creationid="eugeneai" creationdate="20170714T150650Z">
+        <seg>The command taa:content adds text from another page to the current document. The address of the included text is formed by the interpretation of the parameter of the command, for example, taa:content="course:time-differ" adds the text of the table of distribution of time spent between the types of classes (lectures, practice, laboratory works, etc.).</seg>
       </tuv>
     </tu>
     <tu>
@@ -446,6 +982,14 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Кроме того, в вузах РФ активно ведутся разработки интеллектуальных систем автоматизации обучения, где материал студенту выдаётся в зависимости от предопределенного общего сценария и результатов оценки его знаний.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T091111Z" creationid="eugeneai" creationdate="20170717T091111Z">
+        <seg>In addition, the universities of Russian Federation are developing intelligent systems for training automation where the material the student is given depending on a predefined general scenario and the results of the assessment of the current knowledge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Кроме того, средствами клиентского JavaScript реализованы функции авторизации пользователя согласно стандарта WebID, аннотацию текста другими пользователями в формате Open Annotation в виде комментариев к тексту и закладок.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T080657Z" creationid="eugeneai" creationdate="20170714T080657Z">
@@ -458,6 +1002,14 @@
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T111611Z" creationid="eugeneai" creationdate="20170712T111611Z">
         <seg>Lermontov str.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Литература</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T092532Z" creationid="eugeneai" creationdate="20170717T092532Z">
+        <seg>References</seg>
       </tuv>
     </tu>
     <tu>
@@ -478,6 +1030,14 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Министерство образования и науки Российской Федерации после ряда экспериментов перешло на широкомасштабное внедрение Болонского процесса в образовательную среду Российской Федерации.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T133008Z" creationid="eugeneai" creationdate="20170714T133008Z">
+        <seg>The Ministry of education and science of the Russian Federation after a series of experiments started the large-scale deployment of the Bologna process in the educational environment of the Russian Federation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Модули интерпретации семантической разметки реализованы в клиентском JavaScript.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T014844Z" creationid="eugeneai" creationdate="20170714T014844Z">
@@ -490,6 +1050,14 @@
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T014934Z" creationid="eugeneai" creationdate="20170714T014934Z">
         <seg>The modules scan the tree structure of the document, recognizing the conditions for their activation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Модуль JavaScript ищет теги содержащие набор атрибутов datatype="xsd:string" class="edit" и преобразует текст тега в поле ввода, при этом основной текст недоступен для редактирования.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T081636Z" creationid="eugeneai" creationdate="20170717T081636Z">
+        <seg>The JavaScript module searches for the tags containing a set of attributes datatype="xsd:string", class="edit" and converts the tag text into an input field, the main text is not editable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -510,10 +1078,26 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>На этом фоне задача разработки нового учебного пособия теперь кажется более простой, чем раньше.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T143601Z" creationid="eugeneai" creationdate="20170714T143601Z">
+        <seg>The task of developing new handbook now seems to be more simple than before on the background of the document set preparation complexity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Над файловой системой надстроен уровень, позволяющий отслеживать версии документов и развитие документа во времени, создавать интегральные резервные копии.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T021235Z" creationid="eugeneai" creationdate="20170714T021235Z">
         <seg>The file system bis wrapped with a document versions tracking level to monitor the development of the document in time and create integrated backup copies.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Например, большинство постановлений и образовательных стандартов Минобрнауки РФ публикуется в формате PDF, причем в сканированном виде.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T083202Z" creationid="eugeneai" creationdate="20170717T083202Z">
+        <seg>For example, the majority of regulations and education standards of Ministry of education and science of the Russian Federation are published in PDF format in scanned form.</seg>
       </tuv>
     </tu>
     <tu>
@@ -534,6 +1118,14 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Одной из задач, решаемых в рамках этого внедрения – переход к компетентностно-ориентированному представлению требований к педагогическому процессу.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T133342Z" creationid="eugeneai" creationdate="20170714T133342Z">
+        <seg>One of the goals to be solved in the introduction is the transition to competence-oriented representation of the requirements to the pedagogical process.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Они запускаются, как только основное содержимое загружается в браузер.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T014913Z" creationid="eugeneai" creationdate="20170714T014913Z">
@@ -550,10 +1142,34 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Онтологии fibo позволяют задавать роли лиц в документе, например, в генеральной доверенности – кто является доверителем, а кто доверенным:</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T065239Z" creationid="eugeneai" creationdate="20170808T065239Z">
+        <seg>Fibo ontologies allow specifying the role of entities in the document, e.g., for a general power of attorney, who is the principal (truster) and who is trusted:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Онтология prov – основа описания информационных потоков в документах и их взаимосвязи.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170713T153048Z" creationid="eugeneai" creationdate="20170713T153048Z">
         <seg>The prov ontology is a basis of informational flows descriptions in documents and their mutual relationships.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Опыт показывает, что преподаватели в большей части не способны справиться с качественным оформлением документов в предоставленные им временные ограничения, что приводит к необходимости руководству кафедр нанимать секретаря-специалиста, функцией которого является доведение предоставленной документации до необходимого уровня качества.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T144348Z" creationid="eugeneai" creationdate="20170714T144348Z">
+        <seg>The raw statistic shows that most teachers are not able to cope with high-quality paperwork in the provided time constraints, resulting in the necessity to departments to hire a secretary, whose function is to bring documentation to the required quality level.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Основной модуль – isu.college.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T151935Z" creationid="eugeneai" creationdate="20170714T151935Z">
+        <seg>Main module is isu.college.</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,6 +1182,14 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Основную грамматическую форму предложений текста в соответствии с форматом RDFa можно записать в атрибут content, и, например, хранить имена людей в именительном падеже, а в отображаемый текст вставлять подходящее склонение.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T081827Z" creationid="eugeneai" creationdate="20170717T081827Z">
+        <seg>The basic grammatical form of sentences in accordance with the format of the RDFa, one can describe in the content attribute. It allows, e.g., storing peoples' names in the nominative case, and the displayed text to be in a suitable declination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Основные аспекты функционирования модулей рассматривается далее по тексту работы в разделе приложений.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T040921Z" creationid="eugeneai" creationdate="20170714T040921Z">
@@ -574,9 +1198,33 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
-        <seg>Отображаемая пользователю страница загружается с сервера, где она конструируется из содержимого, хранимого в базе данных или файловой системе, результатов преобразований данных других источников алгоритмами конвертации, и элементов шаблона, который включает в отображаемую страницу интерфейс пользователя для управления представлениями и модулями интерпретации.</seg>
+        <seg>Основными форматами представления данных таких источников являются PDF, растровые сканы, DJVU, а также форматы Word и Excel.</seg>
       </tuv>
-      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T014551Z" creationid="eugeneai" creationdate="20170714T014551Z">
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T083020Z" creationid="eugeneai" creationdate="20170717T083020Z">
+        <seg>The popular data representation formats of the sources are PDF, raster scans, DJVU and Word and Excel formats.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>От использования rel и about специалистами-практиками рекомендовано отказаться.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T065202Z" creationid="eugeneai" creationdate="20170808T065202Z">
+        <seg>The usage of rel and about should be avoided.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Отношения описываются средствами семантического веба и LOD, в основном, конструкциями RDFa и командами, задаваемыми в атрибутах тегов HTML.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T091654Z" creationid="eugeneai" creationdate="20170717T091608Z">
+        <seg>The relations are described by means of semantic web and LOD, i.e., with RDFa structures and commands defined in the attributes of HTML tags.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Отображаемая пользователю страница загружается с сервера, где она конструируется из содержимого, хранимого в базе данных или файловой системе, результатов преобразований данных других источников алгоритмами конвертации, а также элементов шаблона, который включает в отображаемую страницу интерфейс пользователя для управления представлениями и модулями интерпретации.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T061537Z" creationid="eugeneai" creationdate="20170808T061537Z">
         <seg>The page is downloaded from a server where it is composed from a content stored in a database or a file system, results of an algorithmic data conversion of other sources, and elements of a template that includes the user view interface elements and interpretation modules on the displayed page.</seg>
       </tuv>
     </tu>
@@ -598,6 +1246,22 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Подготовка юридических документов</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T151948Z" creationid="eugeneai" creationdate="20170714T151948Z">
+        <seg>Designing of legal documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Подход к управлению содержанием сайта на основе технологий RDF.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T074623Z" creationid="eugeneai" creationdate="20170808T074623Z">
+        <seg>An Ontology Polysystem Driven Technique for Semantic Markup for Edited Documents</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Полнотекстовый индекс обеспечивается системой Elasticsearch.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T034853Z" creationid="eugeneai" creationdate="20170714T034853Z">
@@ -610,6 +1274,22 @@
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T080910Z" creationid="eugeneai" creationdate="20170714T080910Z">
         <seg>The resulting texts can be downloaded to the user workstation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Пользователю доступно изменение лишь одного текстового свойства LOD lod:content, которое, в общем случае, содержит текст с разметкой HTML.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T062509Z" creationid="eugeneai" creationdate="20170808T062509Z">
+        <seg>The user can change only one text property of LOD lod:content, which, in General, contains HTML texts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Последние пять лет показали уровень продуманности принимаемых менеджерами министерства решений в части требований к представлению курса – разработано четыре поколения стандартов (1,2,3 и 3+) –, для которых требовалось представить документы в соответствующей обновленной форме.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T142410Z" creationid="eugeneai" creationdate="20170714T142410Z">
+        <seg>The last five years showed the level of forethought of decisions taken by the managers of the ministry in terms of requirements to the presentation of a course - four generations of the standards (1,2,3 and 3+) have been developed – for each generation the documents in the appropriate "new" form should be prepared.</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,6 +1318,22 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Приведем пример представления текста доверенности с грамматическими конструкциями.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T082435Z" creationid="eugeneai" creationdate="20170717T082435Z">
+        <seg>Here is an example of text view of the power of attorney with grammatical structures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Приведены несколько примеров использования разработанных средств верстки для подготовки документов в образовательной среде, подготовки юридических документов и др.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T092045Z" creationid="eugeneai" creationdate="20170717T092045Z">
+        <seg>A few examples of the use of the developed tools has been presented in an educational environment, preparation of legal documents etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Приложения созданных технологий</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T081526Z" creationid="eugeneai" creationdate="20170714T081526Z">
@@ -646,10 +1342,26 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Проводимая реформа затрагивает все аспекты процесса, включая систему классификации специальностей: внедрение программ и направлений, специализация по уровням квалификации (бакалавриат, магистратура и др.), введение прикладного бакалавриата, перечень преподаваемых курсов, целей и задач курсов (согласование с компетенциями, заданными в Федеральном государственном стандарте), формы ведения занятий в вузе (введение интерактивных форм обучения), распределение лекционных и практических занятий и др.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T062711Z" creationid="eugeneai" creationdate="20170808T062711Z">
+        <seg>The reform affects all aspects of the process, including the system of classification of professions, introduction of "programs" and "directions", specialization by skill level (bachelor, master, etc.), introduction of applied bachelor degree, list of courses, goals and objectives of the courses agreed with the competencies specified in the Federal state educational standard, forms of conducting classes, e.g., the introduction of interactive forms, the distribution of lectures and practical sessions, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Программные системы - аналоги</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T041454Z" creationid="eugeneai" creationdate="20170714T041454Z">
         <seg>Analogs of the software system under development</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Проект OntoWiki направлен на поддержку технологий социальных сетей на базе технологий Linked Data [6].</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T062558Z" creationid="eugeneai" creationdate="20170808T062558Z">
+        <seg>The OntoWiki project is aimed at support of social networking technologies based on Linked Data [6].</seg>
       </tuv>
     </tu>
     <tu>
@@ -678,10 +1390,58 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Разметка HTML не привязывается к логической структуре отображаемого объекта (субъекта).</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T062526Z" creationid="eugeneai" creationdate="20170808T062526Z">
+        <seg>The HTML markup is not tied to the logical structure of the displayed object (the subject).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Разметка LOD для табличных данных неструктурированных источников описывается при помощи онтологии qb (Qube Ontology), которая позволяет представлять эти данные в виде гиперкуба.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T065450Z" creationid="eugeneai" creationdate="20170808T065450Z">
+        <seg>LOD markup for the tabular data taken from the unstructured sources is described using the ontology qb (Qube ontology), which allows presenting the data as a hypercube.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Разметка документов в этом проекте аналогична разметке, используемой в предыдущем примере, добавлено несколько онтологий для представления юридически-значимых терминов: fibo (The Financial Industry Business Ontology) и формальных спецификаций удостоверяющих документов acrt (A Certification Ontology).</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T074641Z" creationid="eugeneai" creationdate="20170717T074641Z">
+        <seg>The markup documents in this project is similar to the one used in the previous example, a number of ontologies for representation of significant terms in the legal domain were added: fibo (The Financial Industry Business Ontology), and formal specifications of identity documents acrt (A Certification Ontology).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Разметка таблицы в qb позволяет алгоритмически обрабатывать ее непосредственно, т.е. без предварительного анализа структуры.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T065506Z" creationid="eugeneai" creationdate="20170808T065506Z">
+        <seg>The qb markup allows direct algorithmic processing for the table, i.e., without additional analysis of the structure.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Размеченный методический и документальный материал позволит частично автоматизировать процесс заполнения базы модулей такой системы электронного обучения.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T091223Z" creationid="eugeneai" creationdate="20170717T091223Z">
+        <seg>Marked up methodological and documentary material could be used for partial automation of the process of populating the module databases of e-learning systems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Разрабатываемые программные средства верстки текста документов базируются на технологиях, реализующих стандарт HTML5, существующих в современных веб-браузерах.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170713T000220Z" creationid="eugeneai" creationdate="20170713T000220Z">
         <seg>The developed software for typesetting of text documents are based on technologies, which implement the HTML5 standard available in modern web browsers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Разрабатываются тестовые варианты хранилищ на разных языках программирования.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T065544Z" creationid="eugeneai" creationdate="20170808T065544Z">
+        <seg>Test storages are implemented for different programming languages.</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,10 +1478,26 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Рассмотрим схему представления размеченной рабочей программы в разработанной системе.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145118Z" creationid="eugeneai" creationdate="20170714T145118Z">
+        <seg>Consider the scheme of representation of a marked up work program in the proposed system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Реализация этого сервиса достаточно проста, так как любой RDF-граф представим в формате JSON (JSON-LD).</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T035105Z" creationid="eugeneai" creationdate="20170714T035105Z">
         <seg>The implementation of this service is simple enough because any RDF graph is representable as JSON (JSON-LD).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Реализованы функции копирования документа, загрузки данных одного документа в другой.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T082651Z" creationid="eugeneai" creationdate="20170717T082651Z">
+        <seg>Copy functions and document data substitution from one document to another has been implemented.</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,10 +1510,10 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
-        <seg>Редактируемый документ представляет собой аннотацию порождаемого документа, т.е. сначала он сам себя аннотирует, а после завершения подготовки окончательной версии документа – на его неизменяемую копию, например, на свой PDF.</seg>
+        <seg>Редактируемый документ представляет собой аннотацию порождаемого документа, т.е. сначала он сам себя аннотирует, а после завершения подготовки окончательной версии документа – на его неизменяемую версию, например, на свой PDF.</seg>
       </tuv>
-      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170713T151109Z" creationid="eugeneai" creationdate="20170713T151109Z">
-        <seg>The edited document is an annotation to the target document, i.e., at the beginning the documents annotates itself, and after the completion of the final version of the document, the annotation annotates the generated immutable copy, e.g., the PDF file of the document.</seg>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T061431Z" creationid="eugeneai" creationdate="20170808T061431Z">
+        <seg>The edited document is an annotation to the target document, i.e., at the beginning the documents annotates itself, and after the completion of the final version of the document, the annotation describes the generated immutable copy, e.g., the PDF file of the document.</seg>
       </tuv>
     </tu>
     <tu>
@@ -746,6 +1522,38 @@
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T042259Z" creationid="eugeneai" creationdate="20170714T042259Z">
         <seg>The user is able to add a new RDFa markup with editor's tools, in this case, the function of our interest is implemented in the most general form.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Результатом распознавания таблицы является выгрузка данных в реляционную таблицу [7].</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T083824Z" creationid="eugeneai" creationdate="20170717T083824Z">
+        <seg>The recognition result of the tables is the data in a relational table [7].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Результаты получены при активном использовании сетевой инфраструктуры Телекоммуникационного центра коллективного пользования «Интегрированная информационно-вычислительная сеть Иркутского научно-образовательного комплекса» (ЦКП ИИВС ИРНОК) (http://net.icc.ru).</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T065830Z" creationid="eugeneai" creationdate="20170808T065830Z">
+        <seg>The results obtained with the use of the network infrastructure of Telecommunication center of collective use "Integrated information-computational network of Irkutsk scientific-educational complex" (CCU, IIWS of IRNAK) (http://net.icc.ru).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Результаты получены при частичной поддержке следующих проектов:</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170718T070747Z" creationid="eugeneai" creationdate="20170718T070747Z">
+        <seg>The results obtained with the partial support of the following projects:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Результаты предполагается внедрить в задаче публикации данных результатов исследований в области высокопроизводительного секвенирования ДНК/РНК, провидимых в Лимнологическом институте СО РАН.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T084222Z" creationid="eugeneai" creationdate="20170717T084222Z">
+        <seg>The results are expected to be applied for automation of data publication of research results in the field of high-throughput sequencing of DNA/RNA carried out at the Limnological Institute SB RAS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -766,10 +1574,18 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
-        <seg>Ресурсы представляю собой как статическое содержимое, так и результаты запуска алгоритмов конвертации данных, порождающими текстовое содержимое.</seg>
+        <seg>Ресурсы представляют собой как статическое содержимое, так и результаты запуска алгоритмов конвертации данных, порождающими текстовое содержимое.</seg>
       </tuv>
-      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T123534Z" creationid="eugeneai" creationdate="20170712T123534Z">
-        <seg>Resources represent both the static content and the results of an algorithm execution generating text content from source data.</seg>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T060529Z" creationid="eugeneai" creationdate="20170808T060529Z">
+        <seg>The resources represent both the static content and the results of a data conversion algorithm execution generating text content.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Решение данной проблемы видится в разработке программной системы, позволяющей собирать тексты рабочих программ, аннотаций и ФОС из отдельных частей: перечня компетенций и распределения нагрузки (учебный план); содержания (преподаваемых тем модуля/курса) и ФОСа, тексты которых разделяется между разными версиями документов.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T144822Z" creationid="eugeneai" creationdate="20170714T144822Z">
+        <seg>The solution to this problem is supposed to be in developing a software system that allows collecting the texts of the work programs, abstracts and FAMs from separate parts: a list of competencies and curriculum; the subject and module contents, whose text parts shared between different versions of documents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +1598,14 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Сегодня, большое количество информации публикуется в табличном виде в неструктурированных источниках (например, государственная статистика, финансовые и бизнес отчеты, наборы открытых научных данных, социальные медиа).</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T082945Z" creationid="eugeneai" creationdate="20170717T082945Z">
+        <seg>At present, a large amount of information is published in tabular form in unstructured sources, e.g., government statistics, financial and business reports, sets of open scientific data, social media.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Семантическая разметка представляет логическую структуру документа, предметные отношения между сущностями, представленными в документе, например, выделяются стороны, заключающие некоторое соглашение, предмет соглашения; формальные данные; отношения “часть-целое”, при помощи которых осуществляется секционирование текста документа.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170713T001955Z" creationid="eugeneai" creationdate="20170713T001955Z">
@@ -790,10 +1614,66 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
-        <seg>Скрипты  JavaScript реализуют различные представления документа (View), например, в виде формы ввода; производят преобразования частей текста, например, склонять существительные и подставлять местоимения, генерировать содержание и т.п.</seg>
+        <seg>Семантические аннотации позволяют создавать механизмы поиска страниц Wiki, учитывающие семантику размеченного текста [6].</seg>
       </tuv>
-      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T131110Z" creationid="eugeneai" creationdate="20170712T131110Z">
-        <seg>JavaScript scrips implement various document views, e.g., as input forms, conversion of parts of text, e.g., to lean nouns and substitute pronouns, generate content, etc.</seg>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T062151Z" creationid="eugeneai" creationdate="20170808T062151Z">
+        <seg>Semantic annotations allow development of search engines for Wiki pages that takes into account the semantics of the marked text [6].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Скрипты JavaScript реализуют различные представления документа (View), например, в виде формы ввода; производят преобразования частей текста и порождение содержания, например, склонение существительных и подстановку местоимений.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T061216Z" creationid="eugeneai" creationdate="20170808T061216Z">
+        <seg>JavaScript implements various document views, e.g., as input forms, a conversion of parts of the text, e.g., to lean nouns and substitute pronouns, and other content generation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Совета по грантам Президента Российской Федерации, государственной поддержка ведущих научных школ Российской Федерации (НШ-8081.2016.9).</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T065632Z" creationid="eugeneai" creationdate="20170808T065632Z">
+        <seg>The Council for grants of the President of Russian Federation, state support of leading scientific schools of the Russian Federation (NSH-8081.2016.9).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Согласование грамматики реализовано при помощи атрибутов id, data- и class.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T081849Z" creationid="eugeneai" creationdate="20170717T081849Z">
+        <seg>Harmonization of grammar is implemented using the attributes id, data- and class.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Содержание страницы кодируется структурой ее URL и сверстывается в момент первого обращения.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T151317Z" creationid="eugeneai" creationdate="20170714T151317Z">
+        <seg>The page content is defined by the structure of its URL and rendered at the time of first treatment.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Создаваемые документы хранятся на серверах, поддерживающих протокол HTTP (запросы GET и POST).</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T091830Z" creationid="eugeneai" creationdate="20170717T091830Z">
+        <seg>The edited documents are stored on servers that support HTTP Protocol (GET and POST requests).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Создана организация Cells Research Group (https://github.com/cellsrg), в которой реализованы два проекта: система распознавания структуры таблиц в PDF-документах (https://github.com/cellsrg/TabbyPDF); анализ семантической структуры таблиц Excel, основанный на применении правил (https://github.com/cellsrg/cells-ssdc).</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T083718Z" creationid="eugeneai" creationdate="20170717T083718Z">
+        <seg>We created an organization Cells Research Group at Github (https://github.com/cellsrg), where two projects have been implemented: a system of detection and recognition of tabular structures in PDF documents (https://github.com/cellsrg/TabbyPDF); a rule based semantic structure analysis of Excel spreadsheets (https://github.com/cellsrg/cells-ssdc).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Созданные программные средства и технологии направлены на разработку программной среды глобального электронного документооборота, позволяющего физическим лицам и организациям обмениваться документами, логическая структура которых трудноформализуема в рамках традиционных подходов к автоматизации документооборота.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T092447Z" creationid="eugeneai" creationdate="20170717T092447Z">
+        <seg>The development is aimed at the implementation of a software environment for a global electronic document workflow, allowing individuals and organizations to share document data, logical structure which is difficult to formalize within the framework of traditional approaches to workflow automation.</seg>
       </tuv>
     </tu>
     <tu>
@@ -806,6 +1686,14 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Средств Microsoft Word и Excel, стандартно используемых для решения этой задачи, со встроенным VBA явно недостаточно.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145017Z" creationid="eugeneai" creationdate="20170714T145017Z">
+        <seg>Microsoft Word and Excel are commonly used for this task with a built-in VBA, but in this case it is clearly not enough.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Средства LOD обеспечивают информации, представленной в документе, логическую разметку, информативный базис для различных вариантов визуального представления и интерпретации, установку логических связей с другими документами, экспорт информации в другие документы, процедурную обработку и т.д.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T124031Z" creationid="eugeneai" creationdate="20170712T124031Z">
@@ -814,10 +1702,26 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
-        <seg>Стандарт этой отологии принят в 2017 году, ее основная задача представлять содержимое (аннотацию), описывающее другое содержимое.</seg>
+        <seg>Стандарт этой онтологии принят в 2017 году, ее основная задача представлять содержимое (аннотацию), описывающее другое содержимое.</seg>
       </tuv>
-      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170713T150054Z" creationid="eugeneai" creationdate="20170713T150032Z">
-        <seg>The ontology accepted in 2017, its main purpose is to describe the content (annotation) describing other content.</seg>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T061350Z" creationid="eugeneai" creationdate="20170808T061350Z">
+        <seg>The ontology standard is accepted in 2017, its main purpose is to describe the content (annotation) describing other content.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Страница, отображаемая пользователю, – это аннотация документа "#annotation", причем и аннотируемое содержимое, и текст аннотации – это одно и то же на этапе формирования документа: ресурс "#course-work-program".</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145733Z" creationid="eugeneai" creationdate="20170714T145733Z">
+        <seg>The page displayed to the user is the annotation of the document "#annotation", with both the annotated content and the annotation text being the same at the stage of formation of the document - resource "#course-work-program".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Студентами Института математики, экономики и информатики Иркутского государственного университета разработано приложение для создания юридических документов – нестандартного вида постановлений судебных исполнителей и нотариальных документов.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T074311Z" creationid="eugeneai" creationdate="20170717T074311Z">
+        <seg>Students of the Institute of mathematics, economics and Informatics of Irkutsk state university developed an application for creating legal documents, non-standard form of judgments of judicial officers and notarial documents.</seg>
       </tuv>
     </tu>
     <tu>
@@ -830,9 +1734,25 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
-        <seg>Таким образом, dokieli представляет собой систему поддержки распределенного редактирования текстовых документов, который в полной мере реализует взаимодействие с другими ресурсами LOD, и все функции взаимодействия реализованы исключительно при помощи подпрограмм клиентского JavaScript.</seg>
+        <seg>Существующая документация курса дополнена новыми формами обязательных документов – фондом оценочных средств (ФОС), аннотациями курсов.</seg>
       </tuv>
-      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T081033Z" creationid="eugeneai" creationdate="20170714T081033Z">
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T134608Z" creationid="eugeneai" creationdate="20170714T134608Z">
+        <seg>The existing documentation of the courses is supplemented with new forms of mandatory documents: the Fund of assessment means (FAM), annotations of the courses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Т.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T075044Z" creationid="eugeneai" creationdate="20170808T075044Z">
+        <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Таким образом, dokieli представляет собой систему поддержки распределенного редактирования текстовых документов, который в полной мере реализует взаимодействие с другими ресурсами LOD, при этом все функции взаимодействия реализованы исключительно при помощи подпрограмм клиентского JavaScript.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T062632Z" creationid="eugeneai" creationdate="20170808T062632Z">
         <seg>Thus, dokieli is a system supporting distributed text content editing, which fully implements the interaction with other LOD resources, and all these functions are implemented exclusively by means of the client-side browser JavaScript.</seg>
       </tuv>
     </tu>
@@ -854,18 +1774,26 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
-        <seg>Тексты учебных программ вузов</seg>
+        <seg>Текст можно редактировать при помощи встроенного в OntoWiki WYSIWYG-редактора.</seg>
       </tuv>
-      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T081726Z" creationid="eugeneai" creationdate="20170714T081726Z">
-        <seg>The texts of the curricula of the universities</seg>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T062540Z" creationid="eugeneai" creationdate="20170808T062540Z">
+        <seg>The text id edited with OntoWiki built-in WYSIWYG editor.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="RU">
-        <seg>Технологии базируются на активном использовании RDFa-разметки.</seg>
+        <seg>Текст разбивается на разделы, обрамляется тегами &lt;div&gt; и &lt;span&gt; со соответствующими структурами RDFa.</seg>
       </tuv>
-      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T114427Z" creationid="eugeneai" creationdate="20170712T114427Z">
-        <seg>The technologies are based on the active use RDFa markup.</seg>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T150323Z" creationid="eugeneai" creationdate="20170714T150323Z">
+        <seg>The text is divided into sections, and wrapped by tags &lt;div&gt; and &lt;span&gt; with the relevant RDFa structures.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Тексты учебных программ вузов</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T081726Z" creationid="eugeneai" creationdate="20170714T081726Z">
+        <seg>The texts of the curricula of the universities</seg>
       </tuv>
     </tu>
     <tu>
@@ -878,10 +1806,26 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
-        <seg>Технология Linked Open Data (LOD, открытые связанные данные) [1] предложена W3C-консорциумом для представления семантической информации в публикуемых данных таким образом, чтобы обеспечить не только возможность ее обработки при помощи программных агентов (Семантичекий Веб), но и связать всю имеющуюся информацию в единый семантический граф при помощи отношений и универсальных глобальных идентификаторов (URI) ресурсов.</seg>
+        <seg>Технология Linked Open Data (LOD, открытые связанные данные) [1] предложена W3C-консорциумом для представления семантической информации в публикуемых данных таким образом, чтобы обеспечить не только возможность ее обработки при помощи программных агентов (Семантичекий Веб), но и связать всю имеющуюся информацию в единый семантический граф при помощи отношений и универсальных глобальных идентификаторов ресурсов (URI).</seg>
       </tuv>
-      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T115124Z" creationid="eugeneai" creationdate="20170712T115124Z">
-        <seg>Technology Linked Open Data (LOD) [1] has been suggested by W3C consortium to represent the semantic information in the data published in a way that provides not only the possibility of its processing with software agents (Semantic Web), but also to link all available information into a single semantic graph using relations and global universal identifiers (URIs) of theory resources.</seg>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T060414Z" creationid="eugeneai" creationdate="20170808T060414Z">
+        <seg>Linked Open Data (LOD) [1] technology has been suggested by W3C consortium to represent the semantic information in the data published in a way that provides not only the possibility of its processing with software agents (Semantic Web), but also to link all available information into a single semantic graph using relations and global universal identifiers (URIs) of theory resources.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Титульные листы формируются также из данных учебного плана и подготовленных шаблонов.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T144925Z" creationid="eugeneai" creationdate="20170714T144925Z">
+        <seg>The title pages are generated from data of curriculum and designed templates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Титульный лист и лист согласования вставляются со страницы шаблонов “imei.html” (сведения об Институте математики, экономики и информатики Иркутского государственного университета).</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T150021Z" creationid="eugeneai" creationdate="20170714T150021Z">
+        <seg>The title page and the approval page are inserted from the page templates prepared in “imei.html” (information about the Institute of mathematics, Economics and Informatics of Irkutsk state University).</seg>
       </tuv>
     </tu>
     <tu>
@@ -902,18 +1846,34 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
-        <seg>Формирование документа заканчивается, как только все условия не были активированы, и не осталось необработанных команд.</seg>
+        <seg>Формирование документа заканчивается, как только все условия были активированы и все команды были обработаны.</seg>
       </tuv>
-      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T020738Z" creationid="eugeneai" creationdate="20170714T020738Z">
-        <seg>The document composition finalizes as soon as all conditions were activated.</seg>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T061632Z" creationid="eugeneai" creationdate="20170808T061632Z">
+        <seg>The document composition finalizes as soon as all conditions were met and all command activated.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv xml:lang="RU">
-        <seg>Целью исследования является разработка подхода к разработке программного обеспечения, реализующего функции подготовки и верстки документов, размеченных согласно принципам LOD.</seg>
+        <seg>Целью исследования является создание подхода к разработке программного обеспечения, реализующего функции подготовки и верстки документов, размеченных согласно принципам LOD.</seg>
       </tuv>
-      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T125713Z" creationid="eugeneai" creationdate="20170712T125713Z">
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T060553Z" creationid="eugeneai" creationdate="20170808T060553Z">
         <seg>The aim of the study is to design an approach to the development of software performing the functions of the authoring and typesetting of documents marked up according to LOD principles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Целю преподавания дисциплины "Технологии программирования" является освоение ...&lt;/p&gt;</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T145450Z" creationid="eugeneai" creationdate="20170714T145450Z">
+        <seg>The purpose of the discipline "Programming Technologies" studying is the development of ...&lt;/p&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Черкашин Е.А., Белых П.В.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T074647Z" creationid="eugeneai" creationdate="20170808T074647Z">
+        <seg>Cherkashin E., K.Paskal, I.Bychkov</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,6 +1886,38 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Чтобы иметь возможность использовать данные из этих источников, прежде всего, необходимо извлечь эти данные и трансформировать их в размеченный текст или в таблицы реляционной базы данных.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170717T083249Z" creationid="eugeneai" creationdate="20170717T083249Z">
+        <seg>To be able to use data from these sources, it is  necessary to extract the data and transform it into marked-up text or in tables of a relational database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Шаблоны текста обозначаются атрибутом id.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T151358Z" creationid="eugeneai" creationdate="20170714T151358Z">
+        <seg>The text templates are identified by the id attribute.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Шигаров А.О.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T075010Z" creationid="eugeneai" creationdate="20170808T075010Z">
+        <seg>Shigarov A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Эта логическая структура редактируется при помощи генерируемых автоматически форм ввода по известным терминам в словаре.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T062434Z" creationid="eugeneai" creationdate="20170808T062434Z">
+        <seg>This logical structure is edited by means of the software generated user forms for the known terms in the vocabulary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>Эта онтология используется в случае, если в перечисленных выше и специализированных по предметным областям документа онтологиях не находится подходящего отношения.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170713T153726Z" creationid="eugeneai" creationdate="20170713T153726Z">
@@ -934,10 +1926,34 @@
     </tu>
     <tu>
       <tuv xml:lang="RU">
+        <seg>Это делает структуру семантической разметки более строгой за счет уменьшения количества сущностей.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T150609Z" creationid="eugeneai" creationdate="20170714T150609Z">
+        <seg>This makes the structure of semantic markup to be more strict by reducing the number of entities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>Этот набор составляется для каждой возможной комбинации: вуз, кафедра, специальность, направление (профиль), программа, квалификация (бакалавр, специалист, магистрант, аспирант), академический или прикладной вариант квалификации, форма обучения (очная, заочная, вечерняя, очно-заочная и др.).</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170714T135257Z" creationid="eugeneai" creationdate="20170714T135257Z">
+        <seg>This set of documents is prepared for each following possible combination: the university, department, specialty, direction (profile), program, qualification level (bachelor, specialist, undergraduate, graduate), academic or applied version of the qualification, [form of study (full-time, part-time, evening, part-time,] etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
         <seg>г.</seg>
       </tuv>
       <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170712T111850Z" creationid="eugeneai" creationdate="20170712T111850Z">
         <seg> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="RU">
+        <seg>и др.</seg>
+      </tuv>
+      <tuv xml:lang="EN-US" changeid="eugeneai" changedate="20170808T074631Z" creationid="eugeneai" creationdate="20170808T074631Z">
+        <seg>et al</seg>
       </tuv>
     </tu>
     <tu>
